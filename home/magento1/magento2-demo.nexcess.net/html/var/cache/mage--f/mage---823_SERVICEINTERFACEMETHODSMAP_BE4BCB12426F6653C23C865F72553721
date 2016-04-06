@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459901100;s:6:"expire";i:9999999999;s:4:"tags";s:23:"823_REFLECTION,823_MAGE";}
+a:2:{s:23:"getTaxGrandtotalDetails";a:4:{s:4:"type";s:50:"\Magento\Tax\Api\Data\GrandTotalDetailsInterface[]";s:10:"isRequired";b:0;s:11:"description";N;s:14:"parameterCount";i:0;}s:23:"setTaxGrandtotalDetails";a:4:{s:4:"type";s:4:"this";s:10:"isRequired";b:1;s:11:"description";N;s:14:"parameterCount";i:1;}}

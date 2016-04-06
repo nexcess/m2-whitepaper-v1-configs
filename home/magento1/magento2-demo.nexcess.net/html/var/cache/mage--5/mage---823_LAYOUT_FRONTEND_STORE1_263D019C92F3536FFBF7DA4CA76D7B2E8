@@ -1,0 +1,71 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459934147;s:6:"expire";i:9999999999;s:4:"tags";s:65:"823_SALES_EMAIL_ORDER_ITEMS,823_LAYOUT_GENERAL_CACHE_TAG,823_MAGE";}
+<body>
+   <referenceBlock name="sales.email.order.renderers">
+      <block class="Magento\Bundle\Block\Sales\Order\Items\Renderer" as="bundle" template="email/order/items/order/default.phtml"/>
+   </referenceBlock>
+</body>
+<body>
+   <referenceBlock name="sales.email.order.renderers">
+      <block class="Magento\Downloadable\Block\Sales\Order\Email\Items\Order\Downloadable" as="downloadable" template="email/order/items/order/downloadable.phtml"/>
+   </referenceBlock>
+</body>
+<body>
+   <referenceBlock name="sales.email.order.renderers">
+      <block class="Magento\Sales\Block\Order\Email\Items\Order\DefaultOrder" as="default" template="email/items/order/default.phtml"/>
+   </referenceBlock>
+</body>
+<body>
+   <block name="sales.email.order.renderers">
+      <block class="Magento\GroupedProduct\Block\Order\Email\Items\Order\Grouped" as="grouped" template="Magento_Sales::email/items/order/default.phtml"/>
+   </block>
+</body>
+<body>
+   <referenceBlock name="items">
+      <block class="Magento\Sales\Block\Order\Email\Items\DefaultItems" name="item_price" template="email/items/price/row.phtml"/>
+   </referenceBlock>
+</body>
+<body>
+   <referenceBlock name="items">
+      <block class="Magento\Tax\Block\Item\Price\Renderer" name="item_price" template="email/items/price/row.phtml">
+         <arguments>
+            <argument name="zone" xsi:type="string">email</argument>
+         </arguments>
+      </block>
+   </referenceBlock>
+</body>
+<body>
+   <referenceBlock name="items">
+      <block class="Magento\Weee\Block\Item\Price\Renderer" name="item_price" template="email/items/price/row.phtml">
+         <arguments>
+            <argument name="zone" xsi:type="string">email</argument>
+         </arguments>
+      </block>
+   </referenceBlock>
+</body>
+<update handle="sales_email_order_renderers"/>
+<update handle="sales_email_item_price"/>
+<body>
+   <block class="Magento\Sales\Block\Order\Email\Items" name="items" template="email/items.phtml" cacheable="false">
+      <block class="Magento\Framework\View\Element\RendererList" name="sales.email.order.renderers" as="renderer.list"/>
+      <block class="Magento\Sales\Block\Order\Totals" name="order_totals" template="order/totals.phtml">
+         <arguments>
+            <argument name="label_properties" xsi:type="string">colspan=&quot;2&quot;</argument>
+         </arguments>
+         <block class="Magento\Tax\Block\Sales\Order\Tax" name="tax" template="order/tax.phtml">
+            <action method="setIsPlaneMode">
+               <argument name="value" xsi:type="string">1</argument>
+            </action>
+         </block>
+      </block>
+   </block>
+   <block class="Magento\Framework\View\Element\Template" name="additional.product.info" template="Magento_Theme::template.phtml"/>
+</body>
+<body>
+   <referenceBlock name="order_totals">
+      <block class="Magento\Weee\Block\Sales\Order\Totals" name="weee_ord_totals">
+         <action method="setBeforeCondition">
+            <argument name="condition" xsi:type="string">tax</argument>
+         </action>
+      </block>
+   </referenceBlock>
+</body>

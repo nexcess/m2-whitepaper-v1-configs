@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459870442;s:6:"expire";i:9999999999;s:4:"tags";s:19:"112_CONFIG,112_MAGE";}
+a:4:{s:4:"text";a:2:{s:4:"code";s:4:"text";s:5:"title";s:4:"Text";}s:7:"oneline";a:2:{s:4:"code";s:7:"oneline";s:5:"title";s:13:"Text One Line";}s:4:"html";a:3:{s:4:"code";s:4:"html";s:5:"title";s:4:"HTML";s:10:"escapeHtml";s:4:"true";}s:3:"pdf";a:2:{s:4:"code";s:3:"pdf";s:5:"title";s:3:"PDF";}}

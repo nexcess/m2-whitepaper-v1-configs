@@ -1,0 +1,10 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459869763;s:6:"expire";i:9999999999;s:4:"tags";s:65:"823_REVIEW_PRODUCT_LISTAJAX,823_LAYOUT_GENERAL_CACHE_TAG,823_MAGE";}
+<container name="root">
+   <block class="Magento\Review\Block\Product\View\ListView" name="product.info.product_additional_data" as="product_additional_data" template="product/view/list.phtml"/>
+   <block class="Magento\Theme\Block\Html\Pager" name="product_review_list.toolbar">
+      <arguments>
+         <argument name="show_per_page" xsi:type="boolean">false</argument>
+         <argument name="show_amounts" xsi:type="boolean">false</argument>
+      </arguments>
+   </block>
+</container>

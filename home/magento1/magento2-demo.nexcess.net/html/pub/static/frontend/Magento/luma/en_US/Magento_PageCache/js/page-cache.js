@@ -1,0 +1,1 @@
+/chroot/home/magento1/magento2-demo.nexcess.net/html/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js

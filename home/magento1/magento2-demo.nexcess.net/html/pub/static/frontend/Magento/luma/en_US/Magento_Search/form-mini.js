@@ -1,0 +1,1 @@
+/chroot/home/magento1/magento2-demo.nexcess.net/html/vendor/magento/module-search/view/frontend/web/form-mini.js

@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459901071;s:6:"expire";i:9999999999;s:4:"tags";s:38:"823_REFLECTION,823_REFLECTION,823_MAGE";}
+a:2:{i:0;a:4:{s:4:"name";s:6:"cartId";s:4:"type";s:6:"string";s:23:"isDefaultValueAvailable";b:0;s:12:"defaultValue";N;}i:1;a:4:{s:4:"name";s:18:"addressInformation";s:4:"type";s:54:"Magento\Checkout\Api\Data\ShippingInformationInterface";s:23:"isDefaultValueAvailable";b:0;s:12:"defaultValue";N;}}

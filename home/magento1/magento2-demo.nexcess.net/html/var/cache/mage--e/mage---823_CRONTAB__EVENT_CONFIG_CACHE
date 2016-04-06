@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459869061;s:6:"expire";i:9999999999;s:4:"tags";s:19:"823_CONFIG,823_MAGE";}
+a:2:{s:7:"default";a:1:{s:13:"cron_observer";a:2:{s:8:"instance";s:46:"Magento\Cron\Observer\ProcessCronQueueObserver";s:4:"name";s:13:"cron_observer";}}s:31:"catalog_product_get_final_price";a:1:{s:11:"catalogrule";a:2:{s:8:"instance";s:59:"Magento\CatalogRule\Observer\ProcessAdminFinalPriceObserver";s:4:"name";s:11:"catalogrule";}}}

@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459934147;s:6:"expire";i:9999999999;s:4:"tags";s:34:"823_EAV,823_EAV_ATTRIBUTE,823_MAGE";}
+a:19:{i:0;s:6:"prefix";i:1;s:9:"firstname";i:2;s:10:"middlename";i:3;s:8:"lastname";i:4;s:6:"suffix";i:5;s:7:"company";i:6;s:6:"street";i:7;s:4:"city";i:8;s:10:"country_id";i:9;s:6:"region";i:10;s:9:"region_id";i:11;s:8:"postcode";i:12;s:9:"telephone";i:13;s:3:"fax";i:14;s:6:"vat_id";i:15;s:12:"vat_is_valid";i:16;s:14:"vat_request_id";i:17;s:16:"vat_request_date";i:18;s:19:"vat_request_success";}

@@ -1,0 +1,245 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1459935088;s:6:"expire";i:1460021488;s:4:"tags";s:43:"823_CATALOG_PRODUCT,823_BLOCK_HTML,823_MAGE";}
+    <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2-demo.nexcess.net/selene-yoga-hoodie.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                          src="http://magento2-demo.nexcess.net/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/h/wh05-white_main.jpg"
+             width="240"
+             height="300"
+             alt="Selene Yoga Hoodie"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Selene Yoga Hoodie"
+                                       href="http://magento2-demo.nexcess.net/selene-yoga-hoodie.html"
+                                       class="product-item-link">
+                                        Selene Yoga Hoodie                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1113">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1113-widget-product-grid"                data-price-amount="42"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$42.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,\/product\/1113\/","data":{"product":"1113","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/wishlist\/index\/add\/","data":{"product":"1113","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/catalog\/product_compare\/add\/","data":{"product":"1113","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2-demo.nexcess.net/radiant-tee.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                          src="http://magento2-demo.nexcess.net/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/s/ws12-orange_main.jpg"
+             width="240"
+             height="300"
+             alt="Radiant Tee"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Radiant Tee"
+                                       href="http://magento2-demo.nexcess.net/radiant-tee.html"
+                                       class="product-item-link">
+                                        Radiant Tee                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1561">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1561-widget-product-grid"                data-price-amount="22"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$22.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,\/product\/1561\/","data":{"product":"1561","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/wishlist\/index\/add\/","data":{"product":"1561","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/catalog\/product_compare\/add\/","data":{"product":"1561","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2-demo.nexcess.net/breathe-easy-tank.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                          src="http://magento2-demo.nexcess.net/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/t/wt09-white_main.jpg"
+             width="240"
+             height="300"
+             alt="Breathe-Easy Tank"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Breathe-Easy Tank"
+                                       href="http://magento2-demo.nexcess.net/breathe-easy-tank.html"
+                                       class="product-item-link">
+                                        Breathe-Easy Tank                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1817">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1817-widget-product-grid"                data-price-amount="34"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$34.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,\/product\/1817\/","data":{"product":"1817","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/wishlist\/index\/add\/","data":{"product":"1817","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/catalog\/product_compare\/add\/","data":{"product":"1817","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2-demo.nexcess.net/deirdre-relaxed-fit-capri.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                          src="http://magento2-demo.nexcess.net/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/p/wp12-gray_main.jpg"
+             width="240"
+             height="300"
+             alt="Deirdre Relaxed-Fit Capri"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Deirdre Relaxed-Fit Capri"
+                                       href="http://magento2-demo.nexcess.net/deirdre-relaxed-fit-capri.html"
+                                       class="product-item-link">
+                                        Deirdre Relaxed-Fit Capri                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1901">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1901-widget-product-grid"                data-price-amount="63"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$63.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,\/product\/1901\/","data":{"product":"1901","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/wishlist\/index\/add\/","data":{"product":"1901","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/magento2-demo.nexcess.net\/catalog\/product_compare\/add\/","data":{"product":"1901","uenc":"aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4uaHRtbA,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>

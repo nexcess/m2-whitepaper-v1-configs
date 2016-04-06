@@ -1,0 +1,49 @@
+{
+    "readiness_checks": {
+        "db_write_permission_verified": true
+    },
+    "php_checks": {
+        "php_version_verified": {
+            "responseType": "success",
+            "data": {
+                "required": "~5.5.0|~5.6.0|~7.0.0",
+                "current": "5.6.16"
+            }
+        },
+        "php_extensions_verified": {
+            "responseType": "success",
+            "data": {
+                "required": {
+                    "0": "curl",
+                    "1": "dom",
+                    "2": "hash",
+                    "3": "openssl",
+                    "4": "simplexml",
+                    "5": "xmlwriter",
+                    "8": "gd",
+                    "10": "iconv",
+                    "11": "mcrypt",
+                    "14": "spl",
+                    "15": "xsl",
+                    "16": "intl",
+                    "17": "mbstring",
+                    "18": "ctype",
+                    "34": "zip"
+                },
+                "missing": []
+            }
+        },
+        "php_settings_verified": {
+            "responseType": "success",
+            "data": {
+                "always_populate_raw_post_data": {
+                    "message": "Your PHP Version is 5.6.16, but always_populate_raw_post_data = -1.\n \t        $HTTP_RAW_POST_DATA is deprecated from PHP 5.6 onwards and will be removed in PHP 7.0.\n \t        This will stop the installer from running.\n\t        Please open your php.ini file and set always_populate_raw_post_data to -1.\n \t        If you need more help please call your hosting provider.",
+                    "helpUrl": "http://php.net/manual/en/ini.core.php#ini.always-populate-settings-data",
+                    "error": false
+                }
+            }
+        }
+    },
+    "last_timestamp": 1459951441,
+    "current_timestamp": 1459951501
+}
