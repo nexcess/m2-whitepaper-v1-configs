@@ -1,0 +1,615 @@
+# Webalizer V2.01-10 Incremental Data - 04/06/2016 03:18:24
+2016 4 6 3 18 24
+1210 1141 21 185 18 9 14468018 712 103 0
+4 4 303 2 6
+0 0 0 0 0 0
+94 93 281327 4 88 15
+111 105 879179 5 102 16
+911 853 12226774 15 441 43
+79 76 954211 5 67 20
+15 14 126527 4 14 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+130 127 1013501 110
+120 118 699765 113
+112 105 625944 110
+38 38 1360750 38
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+222 173 1376649 24
+303 301 3781593 71
+57 57 79085 19
+55 54 1792356 55
+55 54 2122321 54
+57 57 1541910 57
+61 57 74144 61
+0
+0
+0
+1141
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+48
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/livingston-all-purpose-tight.html
+0 1 15842497851538791387 70805 1 0
+/pub/static/frontend/Magento/luma/en_US/mage/accordion.js
+0 1 15842497851538791387 954 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/extender/observable_array.js
+0 3 15842497851538791387 2013 0 0
+/
+0 8 15842497851538791387 516550 6 1
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/l/t/lt02.jpg
+1 3 15842497851538791387 31544 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/t/mt07-gray_main.jpg
+1 3 0 14626 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Search/form-mini.js
+0 3 140636310396352 7551 0 0
+/pub/static/frontend/Magento/luma/en_US/knockoutjs/knockout-fast-foreach.js
+0 3 140636310407216 11682 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/collapsible.js
+0 3 0 3924 0 0
+/pub/static/frontend/Magento/luma/en_US/requirejs/domReady.js
+0 4 0 4506 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/validation/validation.js
+0 3 0 4464 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/menu.js
+0 3 0 11613 0 0
+/pub/media/wysiwyg/home/home-t-shirts.png
+1 3 0 11888 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/template/observable_source.js
+0 3 0 1596 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/requirejs/text.js
+0 3 0 4359 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/collapsible.js
+0 4 0 8685 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/form/form.js
+0 3 0 2370 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-slide.html
+0 8 15842497851538791387 4256 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/view/compare-products.js
+0 3 15842497851538791387 1581 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/s/ws12-orange_main.jpg
+1 3 15842497851538791387 13166 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/template/engine.js
+0 3 0 3081 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Swatches/js/SwatchRenderer.js
+0 1 0 6259 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Msrp/js/view/checkout/minicart/subtotal/totals.js
+0 6 0 2838 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/dataPost.js
+0 4 0 2061 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+0 8 0 1600 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/js/view/checkout/defaultCaptcha.js
+0 4 0 2668 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/h/wh10-gray_main.jpg
+1 1 0 8665 0 0
+/privacy-policy-cookie-restriction-mode/
+0 1 0 47181 0 0
+/minerva-lumatech-trade-v-tee.html
+0 1 0 81417 0 0
+/promotions/women-sale.html
+0 1 0 65746 0 0
+/pub/media/styles.css
+0 4 0 15304 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/t/wt09-white_main.jpg
+1 3 0 13910 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery.mobile.custom.js
+0 4 0 20997 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico
+0 2 0 1394 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_PageCache/js/page-cache.js
+0 3 0 6783 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/template/authentication-popup.html
+0 8 0 8672 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/smart-keyboard-handler.js
+0 4 0 2274 0 0
+/pub/media/wysiwyg/home/home-performance.jpg
+1 3 0 48516 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/staticChecked.js
+0 3 0 3000 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/modal/alert.js
+0 3 0 1653 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/js/model/captcha.js
+0 3 0 2037 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery.cookie.js
+0 4 0 2748 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/template/checkout/captcha.html
+0 8 0 4438 0 1
+/collections/eco-friendly.html
+0 12 0 1888932 0 0
+/pub/static/frontend/Magento/luma/en_US/knockoutjs/knockout-repeat.js
+0 3 0 8469 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/form/adapter.js
+0 3 0 1188 0 0
+/women/tops-women.html
+0 1 0 113563 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/tabs.js
+0 4 0 6282 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/template.js
+0 4 0 2538 0 0
+/pub/static/frontend/Magento/luma/en_US/images/logo.svg
+0 3 0 3616 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/content.html
+0 8 0 8584 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/url.js
+0 3 0 852 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/class.js
+0 3 0 3900 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/objects.js
+0 3 0 8688 0 0
+/pub/static/frontend/Magento/luma/en_US/js/theme.js
+0 4 0 1383 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2
+0 3 0 34918 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/js/checkout-loader.js
+0 7 0 2520 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/collection.js
+0 3 0 6426 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/initialize.js
+0 3 0 1260 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/template/renderer.js
+0 3 0 2691 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/view/image.js
+0 3 0 759 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-popup.html
+0 8 0 4128 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/modal/confirm.js
+0 3 0 2250 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/js/action/refresh.js
+0 3 0 963 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/b/wb04-blue-0.jpg
+1 3 0 15338 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/core/app.js
+0 3 0 741 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/core/renderer/types.js
+0 3 0 1263 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/modal/modal.js
+0 3 0 8889 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/translate-inline.js
+0 4 0 5040 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/scope.js
+0 3 0 2820 0 0
+/men/bottoms-men.html
+0 1 0 63542 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery.metadata.js
+0 3 0 5703 0 0
+/men/tops-men/jackets-men.html
+0 1 0 172435 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/element/links.js
+0 3 0 3900 0 0
+/collections/erin-recommends.html
+0 2 0 129981 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Swatches/css/swatches.css
+0 1 0 1673 0 0
+/pub/static/frontend/Magento/luma/en_US/knockoutjs/knockout-es5.js
+0 3 0 16503 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Cookie/js/require-cookie.js
+0 2 0 1104 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/keyboard.js
+0 3 0 1395 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery-ui-timepicker-addon.js
+0 3 0 52770 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/mage-init.js
+0 3 0 888 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/js/sidebar.js
+0 3 0 5928 0 0
+/meteor-workout-short.html
+0 1 0 83086 1 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/model/authentication-popup.js
+0 3 0 1410 0 0
+/collections/performance-fabrics.html
+0 1 0 65519 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2
+0 3 0 6590 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/view/messages.js
+0 3 0 1680 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery-ui.js
+0 4 0 323028 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/storage.js
+0 3 0 3459 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/mage.js
+0 4 0 3117 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/action/login.js
+0 3 0 1848 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/h/mh07-gray_main.jpg
+1 3 0 16158 0 0
+/pub/static/frontend/Magento/luma/en_US/underscore.js
+0 4 0 43986 0 0
+/swatches/ajax/media
+0 495 0 702522 80 75
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/block-loader.html
+0 10 0 2310 0 1
+/pub/media/wysiwyg/home/home-main.jpg
+1 3 0 134108 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/arrays.js
+0 3 0 4062 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/view/customer.js
+0 3 0 780 0 0
+/push-it-messenger-bag.html
+0 1 0 55305 1 0
+/pub/static/frontend/Magento/luma/en_US/mage/apply/main.js
+0 4 0 2997 0 0
+/men/tops-men/tanks-men.html
+0 2 0 302153 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/autoselect.js
+0 3 0 1236 0 0
+/pub/media/wysiwyg/home/home-erin.jpg
+1 3 0 42684 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/datepicker.js
+0 3 0 2511 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/js/view/checkout/loginCaptcha.js
+0 6 0 2844 0 0
+/pub/static/frontend/Magento/luma/en_US/knockoutjs/knockout.js
+0 3 0 192228 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/catalog-add-to-cart.js
+0 1 0 1106 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Theme/js/view/messages.js
+0 3 0 843 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/extender/bound-nodes.js
+0 3 0 3741 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/spinner.js
+0 3 0 867 0 0
+/pub/media/wysiwyg/home/home-eco.jpg
+1 3 0 165678 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/events.js
+0 3 0 3576 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/calendar.js
+0 3 0 15264 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/compare.js
+0 3 0 4659 0 0
+/pub/static/frontend/Magento/luma/en_US/css/styles-m.css
+0 4 0 159444 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/js/view/checkout/minicart/subtotal/totals.js
+0 6 0 1866 0 0
+/pub/static/frontend/Magento/luma/en_US/css/print.css
+0 4 0 2236 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2
+0 3 0 36006 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/compare.js
+0 1 0 501 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/bootstrap.js
+0 4 0 783 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/template/messages.html
+0 8 0 2560 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/requirejs/mixins.js
+0 4 0 6654 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Wishlist/js/view/wishlist.js
+0 1 0 263 0 0
+/customer/account/login/
+0 1 0 29339 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery.storageapi.min.js
+0 4 0 6327 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/product/list/toolbar.js
+0 1 0 978 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/registry/events.js
+0 3 0 3015 0 0
+/pub/static/frontend/Magento/luma/en_US/images/loader-1.gif
+1 2 0 34646 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/optgroup.js
+0 3 0 9210 0 0
+/pub/static/frontend/Magento/luma/en_US/css/styles-l.css
+0 4 0 50632 0 0
+/pub/static/frontend/Magento/luma/en_US/es6-collections.js
+0 3 0 5244 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery.js
+0 4 0 251655 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/core/element/element.js
+0 3 0 10764 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/outer_click.js
+0 3 0 2460 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2
+0 3 0 35742 0 0
+/pub/static/frontend/Magento/luma/en_US/js/responsive.js
+0 4 0 2364 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/template.js
+0 3 0 4674 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/template/loader.js
+0 3 0 2184 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/model/messages.js
+0 3 0 1926 0 0
+/pub/static/frontend/Magento/luma/en_US/requirejs/require.js
+0 4 0 60978 0 0
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery-migrate.js
+0 4 0 17367 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/common.js
+0 4 0 759 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/key-codes.js
+0 3 0 789 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/js/model/captchaList.js
+0 3 0 1038 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/section-config.js
+0 3 0 1806 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/strings.js
+0 3 0 3420 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/translate.js
+0 4 0 1995 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/customer-data.js
+0 3 0 5841 0 0
+/pub/static/_requirejs/frontend/Magento/luma/en_US/requirejs-config.js
+0 4 0 7251 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/misc.js
+0 3 0 3834 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/main.js
+0 3 0 759 0 0
+/pub/media/wysiwyg/home/home-pants.jpg
+1 3 0 76164 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/utils/wrapper.js
+0 3 0 3882 0 0
+/elisa-evercool-trade-tee.html
+0 1 0 71591 1 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/after-render.js
+0 3 0 894 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/cookies.js
+0 3 0 4083 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/fadeVisible.js
+0 3 0 1263 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/loader.js
+0 3 0 5271 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/decorate.js
+0 3 0 3606 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/js/view/minicart.js
+0 3 0 3393 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/registry/storage.js
+0 3 0 1794 0 0
+/customer/section/load/
+0 10 0 306997 0 1
+/pub/static/frontend/Magento/luma/en_US/js-translation.json
+0 6 0 132 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/registry/registry.js
+0 3 0 4116 0 0
+/training/training-video.html
+0 1 0 77344 1 0
+/pub/static/frontend/Magento/luma/en_US/mage/apply/scripts.js
+0 4 0 3600 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/validation.js
+0 3 0 34536 0 0
+/men/tops-men.html
+0 28 0 2586892 5 4
+/pub/static/frontend/Magento/luma/en_US/mage/dropdown.js
+0 3 0 5100 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/storage.js
+0 3 0 1467 0 0
+/pub/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/b/mb02-gray-0.jpg
+1 3 0 18508 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-custom.html
+0 8 0 4088 0 0
+/pub/static/frontend/Magento/luma/en_US/matchMedia.js
+0 4 0 4740 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/core/renderer/layout.js
+0 3 0 4377 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/ie-class-fixer.js
+0 4 0 1344 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/block-loader.js
+0 3 0 2625 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/model/messageList.js
+0 3 0 561 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/calendar.css
+0 4 0 5440 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/js/lib/ko/bind/i18n.js
+0 3 0 4488 0 0
+/gear/bags.html
+0 1 0 51315 0 0
+/women/bottoms-women.html
+0 54 0 4126219 2 1
+/pub/static/frontend/Magento/luma/en_US/jquery/jquery.validate.js
+0 3 0 32556 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/view/authentication-popup.js
+0 3 0 2745 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2
+0 3 0 35382 0 0
+/selene-yoga-hoodie.html
+0 1 0 83779 1 0
+# End Of Table - urls
+# -sites- (monthly)
+192.240.191.2
+0 403 354 2292530 2 1459794147
+/customer/section/load/
+199.16.156.126
+0 2 1 97783 1 1459792607
+/
+141.8.132.79
+0 1 1 8665 0 0
+-
+66.249.75.2
+0 215 213 2665771 27 1459912704
+/swatches/ajax/media
+130.193.50.35
+0 1 0 32968 0 0
+-
+162.213.152.216
+0 1 0 0 1 1459801079
+-
+66.249.75.10
+0 136 134 1261290 30 1459911841
+/swatches/ajax/media
+66.249.73.200
+0 1 1 1528 1 1459798730
+/swatches/ajax/media
+66.249.75.92
+0 1 1 2535 1 1459912610
+/swatches/ajax/media
+157.55.39.137
+0 1 1 63525 1 1459556190
+/
+185.20.4.220
+0 1 1 64645 1 1459792611
+/
+151.80.31.176
+0 1 1 70805 1 1459732452
+/livingston-all-purpose-tight.html
+222.186.58.225
+0 1 0 0 1 1459804661
+-
+66.249.75.127
+0 430 429 7557086 29 1459912704
+/swatches/ajax/media
+164.132.161.22
+0 1 1 83086 1 1459816600
+/meteor-workout-short.html
+196.43.194.248
+0 5 0 33087 1 1459650376
+/
+164.132.161.30
+0 1 1 83779 1 1459642853
+/selene-yoga-hoodie.html
+162.213.152.149
+0 2 0 0 1 1459822467
+-
+164.132.161.77
+0 1 1 77344 1 1459809946
+/training/training-video.html
+164.132.161.86
+0 1 1 71591 1 1459808108
+/elisa-evercool-trade-tee.html
+162.213.152.176
+0 4 0 0 1 1459813484
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.75.2
+0 3 3 71743 3 1459912704
+/swatches/ajax/media
+66.249.75.10
+0 4 4 8135 2 1459911841
+/swatches/ajax/media
+66.249.75.92
+0 1 1 2535 1 1459912610
+/swatches/ajax/media
+66.249.75.127
+0 7 6 44114 4 1459912704
+/swatches/ajax/media
+# End Of Table - sites (daily)
+# -referrers- 
+http://php7.magento2-demo.nexcess.net/women/bottoms-women/shorts-women.html
+1 30
+- (Direct Request)
+0 139
+http://php7.magento2-demo.nexcess.net/men/tops-men/hoodies-and-sweatshirts-men.html
+1 2
+http://php7.magento2-demo.nexcess.net/men/tops-men.html
+1 134
+http://php7.magento2-demo.nexcess.net/men/tops-men/tees-men.html
+1 4
+http://php7.magento2-demo.nexcess.net/
+1 362
+http://php7.magento2-demo.nexcess.net/pub/static/frontend/Magento/luma/en_US/css/styles-m.css
+1 15
+http://php7.magento2-demo.nexcess.net/collections/eco-friendly.html
+1 342
+https://t.co/OJUDwe8Od1
+0 2
+http://php7.magento2-demo.nexcess.net/customer/account/login/
+1 22
+http://php7.magento2-demo.nexcess.net/gear/bags.html
+1 6
+http://php7.magento2-demo.nexcess.net/men/tops-men/jackets-men.html
+1 5
+http://php7.magento2-demo.nexcess.net/collections/performance-fabrics.html
+1 42
+http://104.207.231.21:80/CHANGELOG.txt
+1 1
+http://php7.magento2-demo.nexcess.net/women/bottoms-women.html
+1 93
+http://php7.magento2-demo.nexcess.net/men/bottoms-men/pants-men.html
+1 4
+http://php7.magento2-demo.nexcess.net/women/tops-women.html
+1 1
+http://php7.magento2-demo.nexcess.net/promotions/women-sale.html
+1 6
+# End Of Table - referrers
+# -agents- 
+YandexImages/3.0
+0 1
+Googlebot/2.1
+0 783
+Go-http-client/1.1
+0 1
+Indy Library)"
+0 1
+Mozilla/5.0
+0 407
+YandexBot/3.0
+0 1
+bingbot/2.0
+0 1
+Netscape
+2 407
+AhrefsBot/5.1
+0 5
+Twitterbot/1.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

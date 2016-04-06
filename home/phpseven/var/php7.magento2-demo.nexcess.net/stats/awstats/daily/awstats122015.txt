@@ -1,0 +1,1178 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201512 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1937                
+POS_TIME 2622                
+POS_VISITOR 10624               
+POS_DAY 22195               
+POS_DOMAIN 3517                
+POS_LOGIN 3754                
+POS_ROBOT 3909                
+POS_WORMS 4548                
+POS_EMAILSENDER 4679                
+POS_EMAILRECEIVER 4822                
+POS_SESSION 22581               
+POS_SIDER 22791               
+POS_FILETYPES 4957                
+POS_OS 5315                
+POS_BROWSER 5507                
+POS_SCREENSIZE 6583                
+POS_UNKNOWNREFERER 6657                
+POS_UNKNOWNREFERERBROWSER 7977                
+POS_ORIGIN 8733                
+POS_SEREFERRALS 8883                
+POS_PAGEREFS 9038                
+POS_SEARCHWORDS 9245                
+POS_KEYWORDS 9397                
+POS_MISC 2284                
+POS_ERRORS 9456                
+POS_CLUSTER 3610                
+POS_SIDER_404 9634                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160101004522 581 169481 15171070137967
+FirstTime 20151221112601
+LastTime 20151231092954
+LastUpdate 20160101031915 581 0 580 0 0
+TotalVisits 396                 
+TotalUnique 271                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 273                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 308 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 78 400 2818640 8 10 487868
+1 105 532 4811660 0 4 2788
+2 267 551 4083883 73 75 2671655
+3 379 1422 11338792 3 9 67650
+4 261 1347 10502125 0 6 4182
+5 208 1220 8636996 10 16 514280
+6 208 888 6728857 7 15 231786
+7 4303 5245 286102720 2 9 3976
+8 16971 18164 1204164519 7 15 111771
+9 4186 5992 272873236 33 65 252828
+10 410 2002 25029391 36 67 328091
+11 1615 4862 30788761 74 100 2478139
+12 1635 7110 48597405 30 49 963359
+13 1919 5614 39791519 31 51 1141543
+14 2011 6784 49326558 12 44 735967
+15 1783 5215 35277057 17 123 889410
+16 1241 4436 29166226 14 62 155377
+17 1073 5042 44660380 18 65 689241
+18 128 837 7475837 0 2 1394
+19 992 2246 14548787 18 22 818366
+20 42 181 1228383 0 1 1150
+21 762 6530 37095357 12 107 460551
+22 3 3 126936 44 44 1318184
+23 11 11 94614 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 40591 86634 2175268639
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 161 2034917 20151231164315 0
+ia_archiver 63 2815546 20151228192243 0
+spider 53 2288171 20151224025435 0
+bot[\s_+:,\.\;\/\\-] 53 3046464 20151229111057 0
+crawl 11 634680 20151228155411 0
+no_user_agent 7 380808 20151228220426 0
+commons\-httpclient 6 63468 20151228054009 0
+python 6 190404 20151229092211 0
+java\/[0-9] 3 147456 20151229122255 0
+slurp 3 0 20151223122358 0
+sift 1 63468 20151223171751 0
+wget 1 182286 20151222173342 0
+facebook 1 63468 20151224110119 0
+robot 2 126936 20151226095043 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+eot 5 82877 0 0
+css 1805 23937238 0 0
+png 513 4384489 0 0
+ttf 5 93824 0 0
+woff 236 4252369 0 0
+woff2 927 13037164 0 0
+json 200 4154 0 0
+php 26 2461935 0 0
+html 37930 1815569744 0 0
+xml 9 1113508 0 0
+js 37858 161346373 0 0
+jpg 5593 123829488 0 0
+Unknown 898 19986834 0 0
+svg 355 592959 0 0
+gif 274 4575683 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 7029
+winlong 2
+winxp 1240
+java 26
+winnt 4520
+linuxubuntu 277
+winvista 1723
+linux 33817
+macosx 34319
+linuxgentoo 1
+Unknown 845
+win2008 2835
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 59
+firefox28.0 16
+chrome40.0.2214.115 10
+firefox3.0.7 1
+firefox3.6 16
+firefox44.0 154
+ibrowse 234
+android 311
+firefox3.0.1 1232
+firefox3.6.6 1
+firefox8.0 1
+curl 12
+chrome46.0.2490.76 113
+iphone 6184
+msie8.0 3
+chrome39.0.0.0 154
+chrome47.0.2526.80 1177
+firefox43.0 14504
+firefox41.0 3361
+chrome48.0.2564.22 436
+chrome30.0.1599.66 3
+safari8.0 15
+msie9.0 1
+firefox27.0 7
+Unknown 85
+chrome47.0.2526.83 5567
+chrome37.0.2062.94 3
+safari5.1.1 2
+firefox3.0.2 3
+firefox40.0 259
+firefox42.0 371
+chrome49.0.2596.0 871
+chrome44.0.2403.155 174
+chrome41.0.2227.0 1
+firefox38.0 423
+firefox2.0.0.6 3
+firefox12.0 4
+chrome47.0.2526.73 905
+chrome48.0.2564.48 650
+firefox2.0.0.11 1
+chrome46.0.2490.80 191
+chrome19.0.1063.0 1
+firefox33.0 3
+firefox3.5.5 1
+safari9.0 1472
+firefox39.0 620
+mozilla 11
+chrome45.0.2454.101 533
+chrome47.0.2526.106 20789
+chrome35.0.1916.153 27
+netscape5.0 23742
+chrome26.0.1410.64 1
+chrome42.0.2311.135 1
+safari5.1.2 1
+msie10.0 128
+chrome25.0.1364.172 1
+chrome46.0.2490.86 700
+firefox3.0.10 1
+safari9.0.2 1141
+firefox3.1 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+Kimengi/nineconnections.com 20151228220420
+Hatena::Bookmark/2.00_(Hatena::Bookmark;_master;) 20151223135741
+Pearltrees 20151223170700
+Ruby 20151223133341
+curl/7.43.0 20151223083922
+Filter 20151223125021
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20151229053411
+curl/7.35.0 20151223073044
+Mozilla/5.0_(compatible;__http://tweetedtimes.com) 20151228121316
+curl/7.38.0 20151222105001
+jack 20151228122453
+Digg_Deeper/v1_(http://digg.com/about) 20151228130810
+Mozilla/5.0_(compatible;_um-LN/1.0;_mailto:_techinfo@ubermetrics-technologies.com) 20151228112203
+HTTP_Request2/2.2.0_(http://pear.php.net/package/http_request2)_PHP/5.3.29 20151224120444
+Mozilla/5.0_(Android_4.4.4;_Mobile;_rv:43.0)_Gecko/43.0_Firefox/43.0 20151225202305
+Mozilla/5.0_(compatible) 20151222102650
+Traackr.com 20151226084543
+Mozilla/5.0_(Android_5.0.2;_Mobile;_rv:43.0)_Gecko/43.0_Firefox/43.0 20151227074340
+Mozilla/5.0 20151222152431
+MetaInspector/4.6.0_(_https://github.com/jaimeiniesta/metainspector) 20151223133340
+Mozilla/5.0_(compatible)_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/47.0.2526.73_Safari/537.36_collection@infegy.com 20151225131941
+MetaURI_API/2.0__metauri.com 20151226095021
+HTTPClient/1.0_(2.6.0.1,_ruby_2.2.0_(2014-12-25)) 20151225232508
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+Kimengi/nineconnections.com 20151228220420
+Hatena::Bookmark/2.00_(Hatena::Bookmark;_master;) 20151223135741
+jack 20151228122453
+Digg_Deeper/v1_(http://digg.com/about) 20151228130810
+Pearltrees 20151223170700
+Ruby 20151223133341
+HTTP_Request2/2.2.0_(http://pear.php.net/package/http_request2)_PHP/5.3.29 20151224120444
+Traackr.com 20151226084543
+Filter 20151223125021
+MetaInspector/4.6.0_(_https://github.com/jaimeiniesta/metainspector) 20151223133340
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20151229053411
+Google-HTTP-Java-Client/1.17.0-rc_(gzip) 20151228111324
+MetaURI_API/2.0__metauri.com 20151226095021
+HTTPClient/1.0_(2.6.0.1,_ruby_2.2.0_(2014-12-25)) 20151225232508
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24276 25605
+From1 1 1
+From2 1 1
+From3 150 150
+From4 16163 60877
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://t.co/KDPBIS4JSA 149 149
+http://www.traackr.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 37 8969
+503 24 19008
+206 23 285451
+400 2 452
+401 2 8160
+302 74 0
+500 35 0
+301 2 644
+404 55 1678296
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 13
+/sitemap.xml 1 -
+/robots.txt 42 -
+/page_cache/block/render/id/4/ 1 -
+/rest/default/V1/guest-carts/06f327b266d2283f5f53c1f2228312a7/coupons/demo2015 1 http://php7.magento2-demo.nexcess.net/checkout/
+/page_cache/block/render/id/32/ 1 -
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/customer-data.js 1 http://php7.magento2-demo.nexcess.net/
+/a 1 -
+/page_cache/block/render/id/16/ 1 -
+/info.php 1 -
+/phpinfo.php 1 -
+/gallery.png 1 http://php7.magento2-demo.nexcess.net/pub/static/frontend/Magento/luma/en_US/mage/gallery/gallery.css
+/pub/static/frontend/Magento/luma/en_US/ 2 http://php7.magento2-demo.nexcess.net/pub/static/frontend/Magento/luma/en_US
+/nexinfo.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 273
+181.170.125.193 14966 17436 1049526722 20151231070131
+208.69.120.60 9670 9670 704036321 20151223084359
+76.77.137.178 1438 3400 24151963 20151228170403
+24.62.234.83 772 1178 7060219 20151224023502
+89.212.228.79 651 1339 9779290 20151231092954
+188.247.65.129 632 4535 29629821 20151226104944
+88.207.56.92 540 871 5900161 20151225191945
+213.97.120.237 528 881 4919115 20151222125514
+65.92.163.14 457 5300 28394441 20151223213038
+46.161.110.103 410 687 3441841 20151225133901
+24.161.96.93 78 231 1703628 20151227160530
+59.106.108.116 1 1 63468 20151223135741
+52.21.53.147 1 1 63468 20151228112151
+77.174.196.2 276 608 3931635 20151227074340
+54.173.163.83 2 2 126936 20151227053034
+101.127.13.247 160 520 3417263 20151228120602
+78.152.169.13 333 779 4342650 20151224114747
+184.151.37.142 28 168 1085361 20151224180853
+50.16.221.78 1 1 32768 20151226084543
+72.66.115.14 29 165 1120766 20151222172219
+96.19.55.246 58 207 1420491 20151227142515
+82.193.103.104 42 439 2723730 20151223140837
+1.132.96.171 18 154 1045692 20151227160148
+88.174.209.68 117 423 2525450 20151225133615
+208.76.3.130 11 129 1511015 20151223125430
+184.59.178.113 28 168 1085321 20151225141435
+80.12.35.89 70 246 1584721 20151225153352
+158.69.156.13 1 1 63468 20151231030014
+93.131.208.23 38 190 1322904 20151227152402
+204.187.14.73 38 310 2179010 20151228144548
+62.107.96.30 36 204 1367338 20151225133411
+54.84.195.231 1 1 63468 20151225133944
+173.161.250.209 18 154 1026152 20151222103405
+24.55.42.7 1 1 63468 20151223164208
+82.74.205.192 28 177 1284066 20151226051740
+95.85.42.57 49 252 1387974 20151223051731
+212.34.23.88 89 244 1833388 20151230172209
+86.156.94.163 85 234 1531881 20151224081250
+23.29.122.222 6 6 190404 20151226095021
+52.22.67.103 1 1 63468 20151227025504
+54.176.137.163 10 10 0 20151228134243
+204.187.14.75 38 310 2179010 20151228112715
+52.90.79.252 1 1 63468 20151224120444
+144.76.14.4 1 1 63468 20151224133517
+83.134.158.199 38 195 1447231 20151223141703
+52.25.2.25 1 1 63468 20151223125021
+190.18.152.47 34 95 478382 20151223075657
+93.141.249.93 42 214 1345273 20151225132054
+46.5.254.77 63 348 1717567 20151225144206
+93.100.113.219 50 232 1753214 20151228000505
+122.169.61.114 66 271 2644456 20151228015324
+86.34.51.113 130 330 2515205 20151224214549
+181.169.146.124 59 257 2152564 20151223065405
+144.76.94.112 2 2 63468 20151224024155
+78.56.167.84 110 284 2233504 20151227200013
+176.122.122.141 62 253 2088668 20151224153941
+85.229.20.171 81 278 3125477 20151223144644
+80.187.98.87 28 164 1073140 20151225142735
+54.176.17.88 3 3 0 20151224062053
+178.215.164.106 70 256 2026538 20151225132320
+70.119.180.128 67 234 1635261 20151228095831
+92.111.177.83 69 388 2621242 20151228025829
+130.180.29.246 48 205 1483598 20151228124458
+52.192.219.203 1 2 72722 20151228053742
+23.96.208.137 1 1 63468 20151222102641
+2.220.147.3 48 188 1184418 20151223130454
+184.39.50.54 18 154 1026152 20151224212640
+149.102.99.166 1 1 63468 20151225142821
+107.23.45.127 1 8 370041 20151225134731
+94.212.202.130 88 238 1554993 20151223191927
+86.58.31.230 18 154 1026152 20151225043648
+149.102.102.195 1 1 63468 20151225142820
+216.46.190.188 1 1 0 20151223171753
+54.226.136.134 2 8 366455 20151223133340
+52.7.128.139 3 3 190404 20151228112137
+87.74.160.134 30 195 1288103 20151224065023
+92.27.219.231 68 215 1561241 20151224142025
+86.137.191.77 8 55 785656 20151223133711
+195.234.136.100 206 402 3547360 20151223130318
+81.174.170.170 10 121 1000230 20151224174007
+203.217.147.203 18 154 1026037 20151226135846
+52.91.207.78 1 1 63468 20151225144652
+80.87.33.62 23 180 1351947 20151225182516
+46.133.12.118 42 213 1431637 20151224113218
+91.126.73.33 244 591 3721211 20151225135746
+208.184.77.186 31 269 4644142 20151228170410
+94.224.108.42 48 195 1455976 20151225031917
+88.29.100.190 18 154 1045692 20151223122206
+148.251.246.203 1 1 63468 20151226014501
+82.14.39.143 18 154 1026152 20151225144758
+144.76.22.183 1 1 63468 20151225131932
+92.97.186.176 31 198 1466148 20151224160859
+64.233.173.104 25 73 419327 20151226033813
+52.3.216.48 1 1 63468 20151228054529
+23.101.61.176 1 1 63468 20151223145327
+66.249.83.228 35 150 1021450 20151224142241
+80.11.77.58 13 162 1680342 20151224033752
+149.200.172.72 28 164 1089505 20151224043620
+54.172.185.184 1 3 43990 20151223125349
+128.177.108.218 27 234 3699884 20151228170830
+52.0.203.2 0 1 15772 
+83.86.123.66 31 176 1104480 20151226040555
+213.22.21.183 73 392 1293562 20151222111707
+80.111.158.67 190 534 3194867 20151227081507
+2.104.80.104 48 188 1157790 20151223155327
+94.173.140.144 158 503 3422926 20151224090547
+93.184.35.31 2 2 114688 20151223170700
+181.167.241.148 70 238 1650836 20151224145559
+136.243.47.151 2 2 63468 20151228112224
+86.31.104.124 56 213 1583354 20151224143527
+141.8.56.108 65 205 1237766 20151227162303
+27.113.255.34 18 154 1026037 20151224013702
+141.70.104.147 137 340 2660099 20151223153930
+148.251.136.180 2 2 63468 20151223173820
+54.193.212.129 5 5 0 20151225174712
+141.138.12.133 29 178 1300798 20151227135657
+70.114.176.157 146 310 2120745 20151228113608
+144.76.22.6 1 1 63468 20151226125759
+88.11.89.46 48 195 1488757 20151228141806
+178.58.6.31 48 208 1776439 20151224105201
+109.44.0.73 28 168 1085377 20151231055522
+186.136.164.209 57 214 1718560 20151224141147
+42.113.197.177 28 212 1646499 20151224121437
+144.76.23.211 1 1 63468 20151222102643
+141.136.186.217 129 567 2585619 20151225194947
+71.187.25.141 1 1 63468 20151224121339
+91.252.236.28 43 53 529583 20151224165820
+91.55.251.113 10 124 1020900 20151225161251
+216.46.190.189 1 1 0 20151223171753
+66.102.6.173 9 45 453530 20151225213744
+54.246.154.8 3 3 0 20151228053723
+54.215.44.157 1 1 63468 20151225134459
+104.207.230.57 1 1 63468 20151222105708
+37.128.8.76 30 177 1154778 20151224144053
+213.147.104.73 102 268 2098916 20151228054402
+54.146.39.222 2 2 126936 20151225195450
+154.69.37.12 135 380 3456796 20151224141401
+188.247.79.217 91 436 3165678 20151226114231
+149.102.106.254 1 1 63468 20151224062811
+50.240.130.250 126 360 2236697 20151224144550
+52.1.174.18 1 3 42840 20151223125349
+74.135.6.113 81 238 1785169 20151227195425
+72.229.157.81 157 478 2843430 20151224070132
+181.30.7.82 104 267 2692336 20151223075658
+66.249.93.250 14 70 448903 20151225173628
+52.91.54.233 1 1 63468 20151230123943
+144.76.22.202 1 1 63468 20151228111332
+95.105.160.226 135 302 2083051 20151224113517
+130.211.62.84 4 4 131072 20151228121316
+46.5.0.99 18 154 1045692 20151225042007
+173.26.139.44 28 168 1065426 20151227000412
+52.3.27.31 1 1 63468 20151223114314
+78.143.87.188 42 187 1216529 20151225152028
+149.102.102.10 1 1 63468 20151225142821
+52.91.181.112 1 1 63468 20151230083043
+212.186.3.217 18 154 1045692 20151224090013
+66.249.83.232 4 18 152000 20151224142239
+66.102.6.165 18 214 1744764 20151225213744
+54.172.231.169 2 2 126936 20151229063023
+188.94.18.67 8 55 766116 20151224042731
+40.78.146.128 1 1 63468 20151223145309
+185.18.204.138 29 165 1120766 20151223122032
+86.16.65.232 18 154 1045692 20151223135153
+149.62.201.158 58 194 1244004 20151226130749
+66.249.83.236 4 22 232343 20151224142144
+74.87.163.132 1 1 63468 20151225131941
+66.249.81.145 20 86 772047 20151224162132
+66.249.93.246 79 302 2180152 20151225173636
+37.201.227.74 20 170 1265890 20151223171615
+109.24.234.145 70 233 1827701 20151226160511
+88.203.99.8 59 311 1806037 20151225165437
+54.91.221.210 1 1 63468 20151225161416
+123.123.115.248 21 160 1064771 20151225202305
+217.12.196.98 122 359 3312439 20151229033812
+73.190.62.236 134 313 2633577 20151223083922
+52.22.88.178 2 2 126936 20151226145802
+54.145.93.204 2 2 126936 20151228122454
+45.55.22.139 11 11 698148 20151229084532
+82.168.71.50 73 260 2020960 20151223125256
+54.209.60.63 15 15 739982 20151224165318
+95.131.169.240 38 178 1122017 20151225182145
+187.38.213.33 37 197 1210729 20151223165947
+144.76.23.146 1 1 63468 20151228053721
+66.102.6.169 9 49 1591282 20151225213744
+94.191.185.78 18 154 1045692 20151225162800
+37.248.254.140 30 195 1266702 20151224160612
+64.233.173.94 64 291 1996157 20151226033813
+14.203.78.225 18 154 1026152 20151223172700
+82.234.54.77 18 154 1026152 20151227053235
+23.31.244.94 18 154 1026037 20151222111325
+66.249.81.149 13 74 566603 20151224162118
+172.56.38.232 54 202 1286966 20151224160343
+83.37.38.198 75 364 2104838 20151225151947
+52.2.199.94 1 1 63468 20151225142828
+27.74.213.177 50 214 1446734 20151224033835
+104.45.18.178 1 1 63468 20151222172316
+64.125.188.25 33 257 4112645 20151227091052
+149.102.102.55 1 1 63468 20151224062812
+66.249.93.248 15 53 504558 20151225173629
+149.102.106.149 1 1 63468 20151224062811
+23.29.122.196 4 4 126936 20151225131930
+50.53.142.248 53 217 1823981 20151225151259
+69.41.14.215 73 284 5583033 20151228170902
+70.24.237.110 113 1677 10620981 20151229130354
+90.190.192.89 18 154 1045692 20151224144311
+107.23.92.82 1 8 370041 20151225132537
+173.230.176.84 18 154 1026152 20151228053048
+190.64.69.242 100 276 1960103 20151223122218
+149.102.102.160 1 1 63468 20151224062812
+109.193.226.204 38 178 1115829 20151225162403
+136.243.47.152 1 1 0 20151228112223
+52.21.15.183 1 1 63468 20151224023810
+62.210.181.15 1 1 0 20151222152431
+62.103.213.82 79 249 1679042 20151224032820
+98.208.103.187 38 185 1424797 20151225150941
+90.42.239.105 10 113 994033 20151226053615
+69.41.14.195 19 188 1532534 20151228170450
+93.141.139.74 35 242 1630562 20151225133407
+104.236.219.141 1 1 63468 20151225232508
+72.223.12.234 48 197 1357018 20151224140744
+2.6.153.213 7 48 683756 20151226080620
+52.21.137.163 1 1 63468 20151225131929
+192.240.191.2 83 309 3968375 20151228142048
+68.151.111.9 18 154 1045692 20151227070752
+176.9.151.196 2 2 63468 20151228112204
+54.176.171.245 3 3 190404 20151228130810
+72.66.115.10 2 2 0 20151223121939
+107.182.231.200 3 44 537929 20151228112706
+173.20.102.207 70 229 1363083 20151224153652
+31.105.82.36 18 154 1045692 20151224110017
+198.2.78.253 81 251 2095526 20151223134808
+66.249.88.231 3 28 320699 20151225153128
+124.124.16.89 274 946 6670263 20151230084145
+64.233.173.99 11 59 770019 20151226033812
+46.4.94.206 2 2 63468 20151223172527
+54.173.134.49 1 1 63468 20151224135717
+149.102.99.124 1 1 63468 20151225142820
+98.225.10.135 91 265 2035649 20151225134058
+86.128.209.214 23 185 1454384 20151223164211
+188.247.73.132 119 425 2516972 20151226094957
+77.121.160.146 103 343 2343995 20151224111228
+87.212.92.253 9 102 947507 20151226134132
+54.162.150.242 2 2 126936 20151223160620
+88.217.181.52 66 258 1946149 20151223133305
+52.192.147.199 1 2 72722 20151229053410
+104.209.188.207 2 2 126936 20151223121146
+91.253.213.67 30 190 1251239 20151223132320
+54.175.251.198 1 1 63468 20151222102650
+66.249.81.141 196 681 3731675 20151224162154
+116.66.195.149 10 131 1009635 20151228213518
+54.177.76.98 1 1 63468 20151223213141
+54.165.46.39 1 1 63468 20151223171611
+52.1.77.159 1 1 29822 20151223125349
+54.151.42.39 24 24 0 20151228111324
+52.21.255.183 1 1 63468 20151226125755
+52.0.53.72 1 1 63468 20151223115509
+23.29.122.195 4 4 126936 20151223113321
+208.86.253.24 164 486 2749210 20151223145511
+94.195.49.157 30 190 1251239 20151227111030
+82.73.127.197 89 250 1889739 20151223191656
+54.176.195.13 6 6 0 20151228144410
+83.22.254.33 18 154 1026152 20151228053727
+66.249.88.221 12 108 459399 20151225153132
+76.30.123.125 386 740 4007597 20151228193318
+174.103.249.230 38 187 1300693 20151223211142
+54.174.73.27 0 2 16923 
+54.219.106.162 3 3 0 20151228075621
+66.249.88.226 3 18 246054 20151225153125
+52.21.176.136 1 13 542506 20151223125158
+212.60.203.82 203 401 3087632 20151223131122
+46.118.129.153 18 154 1026037 20151224114819
+54.170.104.88 6 6 190404 20151228220420
+144.76.14.36 1 1 63468 20151223113254
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20151221 125 215 1215370 2
+20151222 2080 5445 49723575 25
+20151223 28666 45109 1862525222 93
+20151224 3182 11510 80612679 87
+20151225 2530 8715 58025315 70
+20151226 585 2642 19727437 27
+20151227 1113 4806 34861339 23
+20151228 1668 5963 50959377 51
+20151229 233 921 7719653 7
+20151230 293 871 6194913 6
+20151231 116 437 3703759 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 12
+30s-2mn 57
+2mn-5mn 18
+15mn-30mn 9
+0s-30s 289
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 512
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/block-loader.html 1268 65733 5 8
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-popup.html 1178 143709 0 2
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-custom.html 1177 142187 0 4
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-slide.html 1177 149181 0 2
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/template/authentication-popup.html 1138 323355 0 5
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/content.html 1111 314757 0 4
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/template/messages.html 1108 90380 0 36
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/template/checkout/captcha.html 1107 183386 0 19
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html 1106 54520 1 90
+/ 583 31804261 342 152
+/women/bottoms-women/shorts-women.html 56 2051168 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/item/details.html 28 15775 0 0
+/rest/default/V1/guest-carts/41885e4331dee41f632d7f528194d53b/totals-information 2 2544 0 0
+/review/product/listAjax/id/5/ 10 63060 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/subtotal.html 155 10204 0 0
+/gear/fitness-equipment/zing-jump-rope.html 101 6057214 0 0
+/about-us 117 3232470 0 0
+/sale.html 137 5594056 0 0
+/setup/pub/fonts/opensans/regular/opensans-400.woff2 8 142807 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-custom.html 19 2958 0 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/shipping_method/price.html 28 9770 0 0
+/elisa-evercool-trade-tee.html 100 7224600 0 0
+/echo-fit-compression-short.html 111 8331696 0 0
+/women/tops-women/tanks-women/lucia-cross-fit-bra.html 118 9838612 0 0
+/cora-parachute-pant.html 119 7567935 0 0
+/setup/index.php/database-check 9 800 0 0
+/sahara-leggings.html 115 7072147 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9mdXNpb24tYmFja3BhY2suaHRtbA,,/product/6/ 5 10 0 0
+/men/tops-men/tanks-men/cassius-sparring-tank.html 119 9062504 0 0
+/collections/savvy-shoulder-tote.html 104 7283376 0 0
+/multishipping/checkout/login/ 3 87942 0 0
+/review/product/listAjax/id/627/ 2 19812 0 0
+/setup/index.php/install 3 8229 0 0
+/adrienne-trek-jacket.html 110 9889148 0 0
+/rest/default/V1/guest-carts/ca06d4fab739d2b675f11a92ec77c875/estimate-shipping-methods 1 419 0 0
+/review/product/listAjax/id/15/ 2 8412 0 0
+/men/tops-men/tees-men/zoltan-gym-tee.html 122 9517336 0 0
+/setup/index.php/readiness-check-installer/progress 7 143920 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/shipping-rates.html 11 6228 0 0
+/setup/index.php/create-admin-account 3 19305 0 0
+/nora-practice-tank.html 96 8261568 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/helper/tooltip.html 28 9618 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2 176 2965528 4 0
+/rest/default/V1/guest-carts/ff73c0ad12311a3984a51d9f87163299/estimate-shipping-methods 3 1257 0 0
+/setup/index.php/environment/php-settings 14 504 0 0
+/stellar-solar-jacket.html 106 8517480 0 0
+/men/tops-men/tees-men/balboa-persistence-tee.html 112 8722136 0 0
+/rest/default/V1/guest-carts/6aeb340aeb9bfff2b37e6202317b8f6c/estimate-shipping-methods 3 1257 0 0
+/admin/admin/index/index/key/035893f5e9518e143c888e7090d14684314b07c3ce25fd5e4b69b6688891798a/ 1 8619 0 0
+/gear/bags/impulse-duffle.html 99 5097906 0 0
+/sales/guest/form/ 3 86061 0 0
+/setup/index.php/customize-your-store 3 307014 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/template/product/image_with_borders.html 154 12166 0 3
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/registration.html 1 713 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-slide.html 19 3209 0 0
+/training/training-video/luma-yoga-for-life.html 127 7635482 0 0
+/men/tops-men/jackets-men/hyperion-elements-jacket.html 111 9774298 0 0
+/setup/pub/images/magento-logo.svg 10 30062 0 0
+/caesar-warm-up-pant.html 104 8790755 0 0
+/cronus-yoga-pant.html 100 7613452 0 0
+/setup/index.php/navigation/side-menu 10 14520 0 0
+/setup/index.php/modules/all-modules-valid 3 48 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/mach-street-sweatshirt.html 104 9066966 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9sdW1hLXlvZ2EtZm9yLWxpZmUuaHRtbA,,/product/51/ 3 6 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/grand-total.html 11 3204 0 0
+/men/tops-men/jackets-men/lando-gym-jacket.html 121 10408269 0 0
+/review/product/listAjax/id/846/ 1 0 0 0
+/collections/performance-new.html 111 6149976 0 0
+/strike-endurance-tee.html 2 136442 0 0
+/men/tops-men/tees-men/atomic-endurance-running-tee-crew-neck.html 129 10200933 0 0
+/men/tops-men/jackets-men/beaumont-summit-kit.html 129 11304832 0 0
+/gear/watches/luma-analog-watch.html 118 6038650 0 0
+/gear/bags/crown-summit-backpack.html 118 7547918 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/select.html 39 11580 0 0
+/customer/account/edit/ 4 173616 0 0
+/women/tops-women/jackets-women/augusta-pullover-jacket.html 111 9785182 0 0
+/rest/default/V1/guest-carts/ee7f7895f8320b4ee32e214a027abe5e/estimate-shipping-methods 2 838 0 0
+/setup/index.php/navigation/header-bar 10 30400 0 0
+/admin/admin/index/index/key/8f97dec570e1033c75618dabfadd967022aca760bd2a347013ae8ef15c7ad734/ 1 8619 0 0
+/about-us/ 7 192136 1 1
+/collections/yoga-new/dash-digital-watch.html 114 5785668 0 0
+/sales/order/view/order_id/4/ 1 44799 0 0
+/review/product/listAjax/id/4/ 4 31648 0 0
+/collections/yoga-new/overnight-duffle.html 101 5592868 0 0
+/rest/default/V1/guest-carts/73d3f8f63c791b0c2867da4b735d61c9/estimate-shipping-methods 1 419 0 0
+/rest/default/V1/guest-carts/8bd66f974a2875adc8d2f7771a9d6a15/estimate-shipping-methods 1 419 0 0
+/review/product/listAjax/id/451/ 2 16168 0 0
+/juno-jacket.html 102 8813344 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff 48 1019280 0 0
+/gear/bags/fusion-backpack.html 108 5864796 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff 47 185946 1 0
+/cassia-funnel-sweatshirt.html 111 9895929 0 0
+/newsletter/manage/ 2 80127 0 0
+/aero-daily-fitness-tee.html 1 82202 0 0
+/setup/index.php/environment/php-extensions 14 3332 0 0
+/review/product/listAjax/id/563/ 1 7869 0 0
+/neve-studio-dance-jacket.html 99 8549856 0 0
+/admin/admin/system_config/state/key/bbeb5bf85bc452a8678d8521a1ca3a623094f71baf4ee3526264d003547644c7/ 6 42 0 0
+/rest/default/V1/guest-carts/a910711f4b67a1211f077edecbc8d93e/estimate-shipping-methods 1 419 0 0
+/rest/default/V1/guest-carts/06f327b266d2283f5f53c1f2228312a7/estimate-shipping-methods 9 3771 0 0
+/gabrielle-micro-sleeve-top.html 103 7848373 0 0
+/customer/account/login/ 13 380666 0 0
+/maxima-drawstring-short.html 106 8842381 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9icmVhdGhlLWVhc3ktdGFuay5odG1s/product/1817/ 2 4 0 0
+/rest/default/V1/carts/mine/estimate-shipping-methods-by-address-id 6 2534 0 0
+/gear/watches/clamber-watch.html 95 4921190 0 0
+/emma-leggings.html 101 7957936 0 0
+/women/tops-women/jackets-women/inez-full-zip-jacket.html 108 9495939 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/item/price.html 154 7851 0 2
+/men/tops-men/jackets-men.html 153 5587284 0 0
+/gear/fitness-equipment/harmony-lumaflex-trade-strength-band-kit.html 114 6964832 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_OfflinePayments/template/payment/checkmo.html 7 7479 0 0
+/setup/index.php/environment/file-permissions 14 6669 0 0
+/rest/default/V1/guest-carts/06f327b266d2283f5f53c1f2228312a7/shipping-information 1 1764 0 0
+/radiant-tee.html 124 10976642 0 0
+/review/product/listAjax/id/755/ 1 7917 0 0
+/juliana-short-sleeve-tee.html 106 7479382 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/grand-total.html 10 4899 0 0
+/downloadable/customer/products/ 4 166347 0 0
+/setup/index.php/modules 3 58071 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/light/opensans-300.woff2 4 69767 0 0
+/men/bottoms-men/shorts-men/torque-power-short.html 109 8931416 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-address/list.html 28 6918 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.eot 1 19996 0 0
+/men/tops-men/jackets-men/proteus-fitness-jackshirt.html 106 9166514 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/shipping.html 10 6943 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff 47 1015314 0 0
+/rest/default/V1/guest-carts/f7c57a89332d46998e2f5c1170ac2468/estimate-shipping-methods 1 419 0 0
+/men/tops-men/tees-men.html 73 2674218 0 1
+/setup/index.php/readiness-check-installer 7 10598 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/authentication.html 28 30844 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9yYWRpYW50LXRlZS5odG1s/product/1561/ 3 6 0 0
+/men/tops-men/jackets-men/montana-wind-jacket.html 117 10198524 0 0
+/ida-workout-parachute-pant.html 121 9111502 0 0
+/women/tops-women/hoodies-and-sweatshirts-women/selene-yoga-hoodie.html 126 10681626 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/oslo-trek-hoodie.html 110 9547996 0 0
+/what-is-new.html 212 12629902 1 1
+/setup/pub/images/logo.svg 9 2429 0 0
+/setup/index.php/environment/php-version 14 1218 0 0
+/review/product/listAjax/id/1817/ 10 59890 0 0
+/review/product/listAjax/id/291/ 1 6054 0 0
+/electra-bra-top.html 110 9754136 0 0
+/swatches/ajax/media 73 90698 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-icon.svg 3 607 0 0
+/portia-capri.html 103 7344332 0 0
+/karissa-v-neck-tee.html 125 8796926 0 0
+/rest/default/V1/guest-carts/f79e9481e16c7384ba0e0da1e51c85e9/shipping-information 1 1329 0 0
+/training/training-video.html 55 1997686 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/cart-items.html 28 14655 0 0
+/review/product/listAjax/id/833/ 1 0 0 0
+/gear/fitness-equipment/affirm-water-bottle.html 127 7659036 0 0
+/rest/default/V1/guest-carts/1cb710f2a0a5b787a1719ff21fa390d0/totals-information 1 2233 0 0
+/review/product/listAjax/id/2015/ 1 7870 0 0
+/women/tops-women.html 67 2430889 0 1
+/zeppelin-yoga-pant.html 118 8032440 0 0
+/collections/dual-handle-cardio-ball.html 99 6006759 0 0
+/men/bottoms-men/pants-men.html 58 2122562 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/item/details/subtotal.html 28 10613 0 0
+/men/tops-men/jackets-men/orion-two-tone-fitted-jacket.html 94 8285976 0 0
+/gear/fitness-equipment/pursuit-lumaflex-trade-tone-band.html 120 7823160 0 0
+/bess-yoga-short.html 113 9414535 0 0
+/pub/static/frontend/Magento/luma/en_US/images/select-bg.svg 29 7909 0 9
+/diva-gym-tee.html 106 8291984 0 0
+/rest/default/V1/guest-carts/06f327b266d2283f5f53c1f2228312a7/payment-information 1 4 0 0
+/hyperion-elements-jacket.html 1 86939 0 0
+/celeste-sports-bra.html 110 9484637 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9zZWxlbmUteW9nYS1ob29kaWUuaHRtbA,,/product/1113/ 3 6 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/totals.html 10 2574 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/sidebar.html 28 11338 0 0
+/livingston-all-purpose-tight.html 104 7282540 0 0
+/setup/index.php/landing-installer 10 7450 0 0
+/lono-yoga-short.html 107 8960934 0 0
+/checkout/onepage/success/ 5 153192 0 0
+/affirm-water-bottle.html 3 179346 0 0
+/bruno-compete-hoodie.html 123 10454322 0 0
+/pierce-gym-short.html 91 7241168 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/estimation.html 28 9180 0 0
+/setup/index.php/web-configuration 3 32796 0 0
+/bardot-capri.html 112 8206187 0 0
+/setup/pub/fonts/icons/icons.woff2 4 19328 0 0
+/women/tops-women/hoodies-and-sweatshirts-women/miko-pullover-hoodie.html 93 8167568 0 0
+/collections/performance-fabrics.html 71 2563810 0 0
+/rest/default/V1/guest-carts/57cbc7e20e999e37ccfd63c6d857e224/totals-information 1 1296 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Weee/template/checkout/summary/weee.html 21 4377 0 0
+/gear/fitness-equipment/sprite-foam-roller.html 102 7310670 0 0
+/multishipping/checkout/overview/ 1 27286 0 0
+/carina-basic-capri.html 108 7647503 0 0
+/admin/admin/cache/index/key/f54b4d21d06ecd536f92aefebeab893404e52b715472af2a45942178a02874b6/ 3 245350 0 0
+/women/tops-women/tanks-women/chloe-compete-tank.html 116 9814404 0 0
+/collections/endeavor-daytrip-backpack.html 110 7589479 0 0
+/karmen-yoga-pant.html 106 8770896 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/marco-lightweight-active-hoodie.html 113 9781140 0 0
+/admin/admin/dashboard/index/key/a57e618c144398972d26b973b07b6fdd70a37d12ad3e1b6a3665151c096b273a/ 1 63619 0 0
+/women/tops-women/tees-women.html 72 2635684 0 0
+/men/tops-men/tanks-men/vulcan-weightlifting-tank.html 94 7265542 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2 177 3005420 3 3
+/sitemap.xml 9 1113508 1 2
+/nona-fitness-tank.html 93 7700121 0 0
+/pub/static/frontend/Magento/luma/en_US/js-translation.json 195 4064 0 3
+/lifelong-fitness-iv.html 11 612194 1 0
+/women/bottoms-women/shorts-women/angel-light-running-short.html 106 8267964 0 0
+/gear/bags/compete-track-tote.html 104 7253985 0 0
+/gear/bags/driven-backpack.html 103 6721221 0 0
+/josie-yoga-jacket.html 110 9441124 0 0
+/gear/bags/joust-duffle-bag.html 120 7985846 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_GiftMessage/template/gift-message-item-level.html 7 4473 0 0
+/bella-tank.html 123 10086706 0 0
+/women/tops-women/tanks-women.html 76 2784220 0 0
+/rest/default/V1/guest-carts/6fbc64d295ce2d782bcb49b33a4daae7/estimate-shipping-methods 1 419 0 0
+/multishipping/checkout/addresses/ 2 39354 0 0
+/men/tops-men/tanks-men/primo-endurance-tank.html 105 8427715 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/item/details/thumbnail.html 28 7553 0 0
+/home 104 2682160 0 0
+/checkout/sidebar/removeItem/ 1 16 0 0
+/orestes-yoga-pant.html 112 8371840 0 0
+/admin/admin/system_message/list/key/d51362986f994076d98b0496c8f339384de4d790a42b92f941a4eff011f4f856/ 2 834 0 0
+/enable-cookies 50 1363510 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/hero-hoodie.html 104 9014716 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/abominable-hoodie.html 111 9640278 0 0
+/gear/fitness-equipment/sprite-foam-yoga-brick.html 111 7510482 0 0
+/review/product/listAjax/id/6/ 14 113694 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/admin-icons/admin-icons.woff2 4 21239 0 0
+/review/product/listAjax/id/1113/ 4 31660 0 0
+/men/tops-men/tanks-men.html 66 2410368 0 0
+/men/tops-men/tees-men/deion-long-sleeve-evercool-trade-tee.html 104 7486801 0 0
+/men.html 128 7735416 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-address/address-renderer/default.html 4 1299 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.ttf 1 3983 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/cart/totals/discount.html 11 2592 0 0
+/collections/yoga-new/didi-sport-watch.html 126 6411360 0 0
+/training/training-video/yoga-adventure.html 108 5957304 0 0
+/diana-tights.html 123 8560596 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff 47 1004882 0 1
+/rest/default/V1/customers/isEmailAvailable 4 16 0 0
+/women/bottoms-women/shorts-women/mimi-all-purpose-short.html 120 9323251 0 0
+/multishipping/checkout/success/ 1 28938 0 0
+/men/bottoms-men/shorts-men/arcadio-gym-short.html 119 9654724 0 0
+/men/tops-men.html 74 2683618 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.eot 1 4031 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/bold/opensans-700.woff2 2 35336 0 0
+/mithra-warmup-pant.html 109 9653798 0 0
+/rest/default/V1/guest-carts/57cbc7e20e999e37ccfd63c6d857e224/shipping-information 1 1407 0 0
+/multishipping/checkout/shipping/ 1 24524 0 0
+/review/product/listAjax/id/7/ 5 40100 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/list.html 6 2341 0 0
+/promotions/pants-all.html 71 2558870 0 0
+/training/training-video/advanced-pilates-yoga-strength.html 104 5843968 0 0
+/minerva-lumatech-trade-v-tee.html 116 9520468 0 0
+/men/tops-men/tees-men/atomic-endurance-running-tee-v-neck.html 140 11545272 0 0
+/review/product/listAjax/id/49/ 9 0 0 0
+/men/tops-men/jackets-men/typhon-performance-fleece-lined-jacket.html 117 10196704 0 0
+/promotions/tees-all.html 52 1876276 3 0
+/women/tops-women/jackets-women.html 90 3302157 0 0
+/gobi-heattec-reg-tee.html 3 224136 0 0
+/rest/default/V1/guest-carts/2e74fcc748ce7b4f0cd5351ad01c54cb/estimate-shipping-methods 1 419 0 0
+/contact/ 6 178932 1 1
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9yaXZhbC1maWVsZC1tZXNzZW5nZXIuaHRtbA,,/product/5/ 2 4 0 0
+/overnight-duffle.html 3 165075 0 0
+/wishlist/ 1 43538 0 0
+/women/bottoms-women/pants-women.html 67 2454317 0 0
+/solo-power-circuit.html 10 552825 0 0
+/mona-pullover-hoodlie.html 116 9903834 0 0
+/privacy-policy-cookie-restriction-mode/ 3 141372 0 0
+/collections/erin-recommends.html 80 2884206 1 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-address/form.html 28 12372 0 0
+/rest/default/V1/guest-carts/423bb6ff20e25ff13fa6316b3e3a3107/estimate-shipping-methods 1 419 0 0
+/ariel-roll-sleeve-sweatshirt.html 132 11395188 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/summary/discount.html 10 2878 0 0
+/chaz-kangeroo-hoodie.html 115 9760840 0 0
+/men/tops-men/tees-men/ryker-lumatech-trade-tee-v-neck.html 117 10055836 0 0
+/promotions/men-sale.html 41 1476392 0 0
+/review/product/listAjax/id/51/ 1 0 0 0
+/rest/default/V1/guest-carts/55db9adff99ee26ab643d6d430764639/estimate-shipping-methods 1 419 0 0
+/training/training-video/solo-power-circuit.html 99 5495014 0 0
+/eos-v-neck-hoodie.html 115 9449036 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/hollister-backyard-sweatshirt.html 107 9232228 0 0
+/ana-running-short.html 88 6784285 0 0
+/supernova-sport-pant.html 105 8619738 0 0
+/gear.html 71 4281156 0 1
+/gear/watches/aim-analog-watch.html 92 4686978 0 0
+/review/product/listAjax/id/681/ 1 9749 0 0
+/training/training-video/lifelong-fitness-iv.html 118 6552909 0 0
+/viktor-lumatech-trade-pant.html 112 8949624 0 0
+/admin/admin/dashboard/index/key/403f5cbda186f043da8cc66214a0cfd58ea8a5913e06999784d7d4f609f4b748/ 2 128341 0 0
+/review/product/listAjax/id/13/ 3 24087 0 0
+/men/tops-men/tees-men/strike-endurance-tee.html 103 7127909 0 0
+/men/tops-men/tanks-men/rocco-gym-tank.html 112 8581756 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information/address-renderer/default.html 7 1858 0 0
+/checkout/index/index/ 1 761863 0 0
+/page_cache/block/render/ 12 2849 0 0
+/helios-evercool-trade-tee.html 114 9387102 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2 178 2932031 1 0
+/rest/default/V1/carts/mine/estimate-shipping-methods 1 419 0 0
+/men/tops-men/tanks-men/erikssen-cooltech-trade-fitness-tank.html 101 8766355 0 0
+/privacy-policy-cookie-restriction-mode 99 4665078 0 0
+/admin/admin/system_config/edit/section/sitemap/key/bd51d7cf6ae05e841f4ab1c8b7fcd3c450452c1bf3a5e0c05baa5e5a5ea4097e/ 2 298012 0 0
+/kratos-gym-pant.html 128 10009312 0 0
+/sales/order/view/order_id/9/ 1 44781 0 0
+/women/tops-women/hoodies-and-sweatshirts-women/autumn-pullie.html 110 9645805 0 0
+/checkout/ 27 20553993 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/subtotal.html 21 6871 0 0
+/fusion-backpack.html 14 756266 0 0
+/paypal/billing_agreement/ 1 39502 0 0
+/men/bottoms-men.html 63 2285438 0 0
+/setup/index.php/session/prolong 56 938 0 1
+/gear/bags.html 77 2801338 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC93YXlmYXJlci1tZXNzZW5nZXItYmFnLmh0bWw,/product/4/ 2 4 0 0
+/men/tops-men/tees-men/ryker-lumatech-trade-tee-crew-neck.html 110 8425644 0 0
+/men/tops-men/tanks-men/sinbad-fitness-tank.html 107 8412066 0 0
+/rest/default/V1/guest-carts/f79e9481e16c7384ba0e0da1e51c85e9/estimate-shipping-methods 2 838 0 0
+/pub/static/adminhtml/Magento/backend/en_US/js-translation.json 5 90 0 0
+/sales/order/view/order_id/5/ 1 45971 0 0
+/review/product/listAjax/id/1465/ 2 0 0 0
+/rest/default/V1/carts/mine/payment-information 4 1561 0 0
+/rest/default/V1/guest-carts/40119d5b9d7b3f0102170a361f83c060/estimate-shipping-methods 1 419 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.eot 1 19535 0 0
+/rest/default/V1/guest-carts/66be0902f9304da7636d2779e50cb461/estimate-shipping-methods 3 1048 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/shipping.html 11 3825 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/gallery/gallery.html 135 48600 1 0
+/kenobi-trail-jacket.html 111 9467844 0 0
+/nadia-elements-shell.html 116 10369317 0 0
+/helena-hooded-fleece.html 115 9850598 0 0
+/checkout/cart/ 12 1392798 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.eot 1 19826 0 0
+/gear/fitness-equipment/set-of-sprite-yoga-straps.html 99 5400549 0 0
+/wayfarer-messenger-bag.html 4 220800 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/grayson-crewneck-sweatshirt.html 114 9947744 0 0
+/rival-field-messenger.html 10 551550 0 0
+/review/product/listAjax/id/14/ 14 112868 0 0
+/men/tops-men/tanks-men/helios-endurance-tank.html 104 8287632 0 0
+/erika-running-short.html 123 10536361 0 0
+/men/tops-men/tanks-men/tiberius-gym-tank.html 120 9227204 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2 177 2953316 0 0
+/olivia-1-4-zip-light-jacket.html 111 9513523 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary.html 28 6594 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/tax.html 11 5652 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/payment-methods/list.html 28 7513 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/form.html 6 3445 0 0
+/gwen-drawstring-bike-short.html 119 10234545 0 0
+/geo-insulated-jogging-pant.html 108 8110176 0 0
+/setup/index.php/navigation 10 43810 0 0
+/customer/section/load/ 444 9425654 0 16
+/setup/index.php/install/start 3 457 0 0
+/layla-tee.html 128 9150500 0 0
+/men/tops-men/tees-men/logan-heattec-reg-tee.html 116 9915280 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.eot 1 19489 0 0
+/rest/default/V1/carts/mine/shipping-information 3 5109 0 0
+/sol-active-short.html 110 9092053 0 0
+/collections/yoga-new/rival-field-messenger.html 104 5797843 0 0
+/rest/default/V1/guest-carts/f07227d7fa4ed8bed02adcec98fc3034/estimate-shipping-methods 2 838 0 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/shipping-estimation.html 11 3402 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9saWZlbG9uZy1maXRuZXNzLWl2Lmh0bWw,/product/47/ 2 4 0 0
+/impulse-duffle.html 5 253960 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9zdHJpa2UtZW5kdXJhbmNlLXRlZS5odG1s/product/627/ 2 4 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.ttf 1 22813 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/stark-fundamental-hoodie.html 110 9548940 0 0
+/rest/default/V1/guest-carts/57cbc7e20e999e37ccfd63c6d857e224/estimate-shipping-methods 4 1676 0 0
+/collections/eco-new.html 99 5487871 0 0
+/frankie-sweatshirt.html 93 7906706 0 0
+/helios-endurance-tank.html 1 79958 0 0
+/customer/account/ 10 485146 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9oZXJvLWhvb2RpZS5odG1s/product/163/ 3 6 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/progress-bar.html 28 8170 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff 47 1026947 1 0
+/rest/default/V1/guest-carts/2d9a049ecb2d4dc8fbc368fa782bec62/estimate-shipping-methods 1 423 0 0
+/women/bottoms-women.html 76 2758568 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/regular/opensans-400.woff2 4 71415 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-popup.html 19 2997 0 0
+/collections/yoga-new/go-get-r-pushup-grips.html 115 6945908 0 0
+/gwyn-endurance-tee.html 120 10017062 0 0
+/catalogsearch/result/ 24 852426 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC92aWt0b3ItbHVtYXRlY2gtdHJhZGUtcGFudC5odG1s/product/755/ 1 2 0 0
+/men/tops-men/jackets-men/taurus-elements-shell.html 132 11542912 0 0
+/hera-pullover-hoodie.html 112 9456704 0 0
+/maya-tunic.html 110 9340850 0 0
+/admin/admin/system_config/index/key/61f759887cdfdab91734054474f2ff35ddc4ad489dceef1f1f15e6629bf2a51f/ 1 257839 0 0
+/gear/fitness-equipment.html 77 2797752 0 0
+/men/tops-men/tees-men/aero-daily-fitness-tee.html 124 10223424 0 0
+/luma-yoga-for-life.html 1 59538 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/semibold/opensans-600.woff2 4 71943 0 0
+/meteor-workout-short.html 113 9313994 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/details.html 6 2988 0 0
+/collections/eco-friendly.html 59 2132283 0 0
+/women/tops-women/hoodies-and-sweatshirts-women.html 79 2901258 0 0
+/customer/address/ 2 86343 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/teton-pullover-hoodie.html 123 10716352 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information.html 28 10539 0 0
+/customer/account/create/ 6 180384 0 0
+/review/product/listAjax/id/1561/ 11 90255 0 0
+/women/bottoms-women/shorts-women/artemis-running-short.html 125 10953718 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2 178 552502 5 1
+/pub/static/frontend/Magento/luma/en_US/Magento_GiftMessage/template/gift-message.html 10 5967 0 0
+/desiree-fitness-tee.html 120 10433533 0 0
+/customer-service 126 3839018 0 0
+/review/customer/ 1 39321 0 0
+/sybil-running-short.html 120 9141992 0 1
+/men/tops-men/jackets-men/mars-heattech-trade-pullover.html 106 9304445 0 0
+/women/tops-women/tanks-women/zoe-tank.html 126 10493928 0 0
+/phoebe-zipper-sweatshirt.html 104 8806016 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/item/default.html 158 55392 0 1
+/review/product/listAjax/id/1529/ 2 15494 0 0
+/wishlist/index/index/wishlist_id/1/ 1 47854 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Weee/template/checkout/summary/item/price/row_excl_tax.html 28 14760 0 0
+/argus-all-weather-tank.html 117 8854431 0 0
+/collections/strive-shoulder-pack.html 110 7764992 0 0
+/search/term/popular/ 1 25856 0 0
+/cobalt-cooltech-trade-fitness-short.html 137 11018764 0 0
+/gear/watches.html 64 2317384 0 0
+/setup/pub/fonts/opensans/semibold/opensans-600.woff2 7 125860 0 0
+/collections/yoga-new/cruise-dual-analog-watch.html 119 6097764 0 0
+/search/ajax/suggest/ 85 170 0 1
+/rest/default/V1/guest-carts/66be0902f9304da7636d2779e50cb461/totals-information 1 2144 0 0
+/review/product/listAjax/id/699/ 9 0 0 0
+/ina-compression-short.html 92 6880035 0 0
+/collections/yoga-new/summit-watch.html 102 5215566 0 0
+/gear/watches/endurance-watch.html 105 5397432 0 0
+/mimi-all-purpose-short.html 1 77292 0 0
+/sales/order/history/ 1 49811 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_CheckoutAgreements/template/checkout/checkout-agreements.html 6 5010 0 0
+/admin/admin/sitemap/index/key/0a07bb3fb71154ec401690cef9202a7e43ae33b7a08e13a25336c256600c4bb8/ 3 180941 0 0
+/leah-yoga-top.html 106 9051147 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/totals.html 28 6939 0 0
+/setup/pub/fonts/opensans/bold/opensans-700.woff2 4 70672 0 0
+/customer-service/ 7 213164 1 1
+/aether-gym-pant.html 113 8110639 0 0
+/fiona-fitness-short.html 114 9433174 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address.html 6 3979 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/field.html 39 17626 0 0
+/setup/index.php/customize-your-store/default-time-zone 3 75 0 0
+/catalogsearch/advanced/ 6 197658 0 0
+/gear/fitness-equipment/sprite-yoga-companion-kit.html 125 8824120 0 0
+/aeon-capri.html 114 8518704 0 0
+/setup/index.php/success 2 3244 0 0
+/antonia-racer-tank.html 118 10067933 0 0
+/collections/yoga-new/wayfarer-messenger-bag.html 122 6759016 0 0
+/thorpe-track-pant.html 96 7596020 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9hcmd1cy1hbGwtd2VhdGhlci10YW5rLmh0bWw,/product/699/ 3 6 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.ttf 1 22143 0 0
+/circe-hooded-ice-fleece.html 102 8477461 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/onepage.html 28 7874 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/group/group.html 28 11967 0 0
+/men/bottoms-men/shorts-men.html 55 2009222 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/minicart/subtotal/totals.html 151 18474 0 11
+/women/tops-women/jackets-women/riona-full-zip-jacket.html 106 9248424 0 0
+/deirdre-relaxed-fit-capri.html 129 8274332 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/form/element/email.html 28 26215 0 0
+/rest/default/V1/guest-carts/7f9b401a76bc0002859e262668dd3e81/estimate-shipping-methods 1 419 0 0
+/nexinfo.php 26 2461935 5 4
+/gear/bags/voyage-yoga-bag.html 104 7261986 0 0
+/tiffany-fitness-tee.html 108 9047268 0 0
+/setup/ 12 57216 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.ttf 1 22328 0 0
+/daria-bikram-pant.html 109 7579783 0 0
+/atlas-fitness-tank.html 123 9288670 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping.html 28 46393 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/payment.html 28 17302 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/input.html 39 8548 0 2
+/selene-yoga-hoodie.html 4 333760 0 0
+/men/tops-men/tanks-men/sparta-gym-tank.html 107 8552593 0 0
+/men/tops-men/hoodies-and-sweatshirts-men.html 122 4472270 0 1
+/hawkeye-yoga-short.html 100 8170119 0 0
+/review/product/listAjax/id/47/ 10 0 0 0
+/breathe-easy-tank.html 125 10316169 0 0
+/rest/default/V1/guest-carts/f79e9481e16c7384ba0e0da1e51c85e9/payment-information 1 3 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Shipping/template/checkout/shipping/shipping-policy.html 28 9196 0 0
+/training.html 101 5299148 1 1
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-logo.svg 4 8865 0 0
+/review/product/listAjax/id/163/ 18 0 0 0
+/rest/default/V1/guest-carts/018546c5c97e50299fea01dba902eb8a/estimate-shipping-methods 1 423 0 0
+/women/tops-women/tanks-women/prima-compete-bra-top.html 101 9194828 0 0
+/orestes-fitness-short.html 128 10159270 0 0
+/pub/static/frontend/Magento/luma/en_US/images/logo.svg 299 542824 6 1
+/collections/yoga-new.html 87 3142196 2 0
+/hero-hoodie.html 18 1542690 4 0
+/rapha-sports-short.html 107 8898990 0 0
+/gear/watches/bolo-sport-watch.html 126 6473754 0 0
+/rest/default/V1/guest-carts/c797026606d0420d5ab0c6cb3c30dceb/estimate-shipping-methods 1 419 0 0
+/admin/admin/index/index/key/9e99f128fed0d16b7e6cbc83ad0578f3062b0e5469b5ff47fa16d8f1931eae03/ 3 26243 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9wdXNoLWl0LW1lc3Nlbmdlci1iYWcuaHRtbA,,/product/14/ 3 6 0 0
+/ingrid-running-jacket.html 106 9444355 0 0
+/women.html 153 9323368 4 1
+/setup/index.php/add-database 5 31590 0 0
+/women/tops-women/hoodies-and-sweatshirts-women/daphne-full-zip-hoodie.html 101 8169032 0 0
+/men/bottoms-men/shorts-men/apollo-running-short.html 115 8964944 0 0
+/rest/default/V1/guest-carts/3cf66cc4d303f6ae6a24824cb6da88ef/estimate-shipping-methods 1 419 0 0
+/men/tops-men/tees-men/gobi-heattec-reg-tee.html 112 8412628 0 0
+/admin/admin/index/index/key/120064f8c6f32ca37e0f9323295fd25cd6feef0299d6bca772ba43ff24fea019/ 2 17431 0 0
+/checkout/cart/add/uenc/aHR0cDovL3BocDcubWFnZW50bzItZGVtby5uZXhjZXNzLm5ldC9taW1pLWFsbC1wdXJwb3NlLXNob3J0Lmh0bWw,/product/2015/ 1 2 0 0
+/men/tops-men/hoodies-and-sweatshirts-men/ajax-full-zip-sweatshirt.html 125 10857048 0 0
+/push-it-messenger-bag.html 14 775635 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.ttf 1 22557 0 0
+/collections/push-it-messenger-bag.html 108 5993460 0 0
+/catalog/product_compare/index/ 1 43966 0 0
+/troy-yoga-short.html 130 10804010 0 0
+/sylvia-capri.html 116 9061960 0 0
+/rest/default/V1/guest-carts/07d96de46edb57a47ea08824ebdb1986/estimate-shipping-methods 1 419 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/tax.html 10 7558 0 0
+/multishipping/checkout/billing/ 1 14160 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/arrows-bg.svg 1 263 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/payment/discount.html 28 20601 0 0
+/men/tops-men/tanks-men/tristan-endurance-tank.html 117 10572472 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information/list.html 7 1175 0 0
+/setup/index.php/install/progress 51 3348314 0 0
+/promotions/women-sale.html 58 2087384 0 0
+/women/tops-women/tanks-women/erica-evercool-sports-bra.html 101 8819904 0 0
+/gear/fitness-equipment/quest-lumaflex-trade-band.html 136 8251784 0 0
+/admin/admin/sitemap/new/key/38583a3cc5f3233c4d9926124d0c87639a70698e07a201c109b0eed054d78977/ 1 52033 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Payment/template/payment/free.html 7 5770 0 0
+/jupiter-all-weather-trainer.html 103 8862250 0 0
+/training/training-video/beginner-s-yoga.html 101 5587756 0 0
+/jade-yoga-jacket.html 127 11022236 0 0
+/iris-workout-top.html 120 9057858 0 0
+END_SIDER

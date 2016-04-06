@@ -1,0 +1,822 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201604 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1937                
+POS_TIME 2623                
+POS_VISITOR 9039                
+POS_DAY 16379               
+POS_DOMAIN 3324                
+POS_LOGIN 3558                
+POS_ROBOT 3713                
+POS_WORMS 4296                
+POS_EMAILSENDER 4427                
+POS_EMAILRECEIVER 4570                
+POS_SESSION 16584               
+POS_SIDER 16786               
+POS_FILETYPES 4705                
+POS_OS 5035                
+POS_BROWSER 5185                
+POS_SCREENSIZE 5906                
+POS_UNKNOWNREFERER 5980                
+POS_UNKNOWNREFERERBROWSER 6209                
+POS_ORIGIN 6322                
+POS_SEREFERRALS 6464                
+POS_PAGEREFS 6621                
+POS_SEARCHWORDS 6799                
+POS_KEYWORDS 6970                
+POS_MISC 2286                
+POS_ERRORS 7054                
+POS_CLUSTER 3414                
+POS_SIDER_404 7211                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160406031852 2223 657860 6613035575624
+FirstTime 20160402001754
+LastTime 20160406031514
+LastUpdate 20160406031904 2223 0 2223 0 0
+TotalVisits 147                 
+TotalUnique 132                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 152                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 16 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 923 1521 16333695 487 578 31166920
+1 708 866 8712438 457 492 27940357
+2 2620 3552 31919843 797 997 43371726
+3 1088 1322 7373342 170 219 9386908
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 261 628 30709543 24 47 430571
+18 211 435 26162620 90 93 6229144
+19 152 205 2400044 77 186 4450172
+20 230 275 5438023 163 244 18697914
+21 171 228 2643325 87 148 5550593
+22 111 130 1141210 65 98 4549784
+23 253 287 7766442 119 202 6173870
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 6728 9449 140600525
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+googlebot 1106 47570629 20160406031729 0
+slurp 663 61042683 20160406031741 0
+mj12bot 298 13354862 20160404022226 0
+nagios 223 14108140 20160406031852 0
+robot 60 12644550 20160404221559 0
+ia_archiver 19 2083244 20160403025116 0
+baiduspider 19 1253669 20160406011833 0
+bot[\s_+:,\.\;\/\\-] 4 331422 20160406001433 0
+favicon 3 188043 20160406023614 0
+netcraft 2 125362 20160404233448 0
+surveybot 1 62743 20160404215912 0
+yandex 1 62681 20160404182932 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+css 81 2128376 0 0
+png 17 59097 0 0
+ttf 5 160264 0 0
+woff2 57 695227 0 0
+woff 20 378669 0 0
+ini 2 57512 0 0
+json 163 1966 0 0
+php 8 271282 0 0
+html 6146 96694573 0 0
+js 2404 12767488 0 0
+jpg 212 3560737 0 0
+xml 2 57500 0 0
+Unknown 306 23692113 0 0
+svg 19 35278 0 0
+gif 7 40443 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 387
+winxp 4
+winnt 884
+linuxubuntu 169
+linux 1642
+winvista 874
+macosx 2561
+Unknown 17
+win2008 2911
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 39
+msie6.0 1
+firefox3.6 3
+chrome24.0.1309.0 1
+android 161
+chrome49.0.2623.110 3893
+chrome48.0.2564.116 24
+chrome39.0.2171.95 1
+chrome38.0.2125.101 41
+safari5.0.6 11
+curl 1
+firefox43.0 12
+chrome51.0.2698.0 2
+chrome27.0.1453 15
+firefox41.0 649
+chrome51.0.2699.0 2
+safari8.0 15
+msie9.0 21
+Unknown 1
+safari9.0.3 48
+chrome24.0.1312.70 2
+chrome49.0.2623.87 991
+chrome51.0.2698.1 44
+chrome49.0.2623.105 226
+chrome48.0.2564.82 169
+safari9.1 137
+firefox38.0 163
+firefox46.0 241
+chrome49.0.2623.75 195
+firefox45.0 1990
+safari9.0 164
+mozilla 26
+chrome26.0.1410.64 2
+netscape5.0 1
+chrome46.0.2490.86 1
+chrome48.0.2564.103 14
+firefox36.0 1
+firefox35.0 2
+safari 2
+chrome48.0.2564.97 176
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(Android_5.1.1;_Mobile;_rv:45.0)_Gecko/45.0_Firefox/45.0 20160406022758
+Go_http_package 20160405031355
+curl/7.38.0 20160405003438
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go_http_package 20160405031355
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 542 556
+From1 0 0
+From2 24 24
+From3 1 1
+From4 6161 8868
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 24 24
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://104.207.233.117:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+gym+fees+in+diva 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+gym 1
+fees 1
+in 1
+diva 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+401 2 8160
+403 633 194207
+503 4 3148
+302 77 0
+400 2 186
+301 1 247
+404 150 4902427
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/l/t/lt02.jpg 13 http://magento2-demo.nexcess.net/
+/admin/Cms_Wysiwyg/directive/ 4 -
+/gear/bagssss.html 1 -
+/robots.txt 13 -
+/magmi/web/magmi.php 4 -
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/t/mt07-gray_main.jpg 13 http://magento2-demo.nexcess.net/
+/store 1 -
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/t/wt09-white_main.jpg 12 http://magento2-demo.nexcess.net/
+/magmi/conf/magmi.ini 2 -
+/admin/Cms_Wysiwyg/directive/index/ 8 -
+/downloader/ 2 -
+/admin 14 http://www.venustheme.com/magento-2-demo-admin-access-sample-data-new-updates/
+/pub/media/catalog/product/cache/1/thumbnail/90x90/e9c3970ab036de70892d86c6d221abfe/sample_data/w/s/ws12-orange_back.jpg 1 -
+/api/xmlrpc 2 -
+/index.htm 1 http://www.netcraft.com/survey/
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/s/ws12-orange_main.jpg 13 http://magento2-demo.nexcess.net/
+/robots.txt/ 4 -
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/w/b/wb04-blue-0.jpg 13 http://magento2-demo.nexcess.net/
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/h/mh07-gray_main.jpg 13 http://magento2-demo.nexcess.net/
+/admin/login 2 -
+/index.php/admin 1 -
+/media/catalog/product/cache/1/small_image/240x300/beff4985b56e3afdbeabfc89641a4582/m/b/mb02-gray-0.jpg 13 http://magento2-demo.nexcess.net/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 152
+27.131.213.228 950 959 6086317 20160406024206 20160406021715 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/template/messages.html
+59.148.9.50 634 722 8386358 20160405024135
+110.93.200.166 328 364 4133781 20160406014453
+192.240.191.2 304 751 31742014 20160404180237
+116.203.76.178 237 269 2239693 20160403030811
+80.232.171.200 209 294 1174850 20160406031237 20160406030841 /customer/section/load/
+94.212.43.31 191 225 2296812 20160406021759
+76.172.83.105 191 200 6641407 20160404235431
+111.93.59.94 174 187 1132528 20160405004608
+103.39.15.42 157 250 1551172 20160405010337
+66.249.93.160 7 10 4501 20160404030303
+204.79.180.147 0 1 12657 
+183.82.106.214 21 26 198473 20160404031301
+104.189.157.72 11 16 85184 20160406003741
+54.219.51.171 1 1 262884 20160406003028
+71.192.188.152 2 2 438856 20160404202040
+58.108.199.36 11 16 85184 20160405025737
+65.99.193.201 1 1 32506 20160403004617
+202.131.115.180 66 200 864502 20160406021821
+122.58.77.52 83 101 1084181 20160404210407
+194.54.152.114 11 11 77630 20160405021445
+115.79.35.103 2 3 63651 20160406001316
+173.172.107.233 13 19 85938 20160404232136
+84.255.254.178 10 15 7468 20160404010740
+5.13.35.185 115 153 1592062 20160404192136
+80.4.108.18 61 207 981933 20160402022907
+218.214.10.203 10 15 7468 20160404010428
+116.212.183.194 4 4 883624 20160405005721
+206.214.60.230 41 41 174784 20160403000200
+62.149.106.137 1 1 63913 20160404015536
+204.79.180.243 0 1 261 
+80.82.65.82 1 1 62681 20160404193124
+38.110.28.70 9 9 5101 20160402012939
+207.102.138.158 7 41 483110 20160404014635
+50.139.98.249 11 16 71430 20160402001943
+94.214.168.40 9 14 7446 20160404000209
+83.47.205.213 2 2 438856 20160406023309 20160406023307 /pub/static/frontend/Magento/blank/en_US/css/docs/responsive.html
+204.79.180.164 0 1 2436 
+116.212.228.210 129 165 1658221 20160405015710
+204.79.180.36 0 1 1680 
+1.187.32.98 32 38 166710 20160402013706
+174.49.73.68 1 1 62681 20160406015332
+173.165.185.150 28 33 54987 20160404182328
+96.82.244.230 24 24 6071191 20160406024353 20160406024352 /pub/static/frontend/Magento/blank/en_US/css/docs/layout.html
+96.41.29.35 10 15 22503 20160404231752
+76.85.213.26 16 21 182276 20160404230501
+27.113.241.48 60 65 255447 20160406001007
+115.70.205.114 11 16 85184 20160404235945
+213.61.163.34 105 139 492565 20160404031314
+202.66.8.89 20 25 99783 20160406023657 20160406023638 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+49.207.182.123 10 10 14557 20160406012019
+89.134.192.229 10 15 22503 20160405015836
+204.79.180.217 0 1 687 
+89.201.46.202 23 30 202761 20160403030659
+185.34.10.154 9 9 16242 20160406031413 20160406031412 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+203.118.42.92 10 15 22503 20160406011533
+61.246.199.90 2 2 122987 20160405023033
+180.25.52.217 11 16 85184 20160405015918
+204.79.180.125 0 1 665 
+59.163.248.226 4 4 877712 20160406010959
+37.210.49.13 79 99 1275850 20160402023840
+82.164.96.172 3 7 66603 20160404195013
+78.180.178.121 34 176 836764 20160404023835
+167.114.235.175 1 1 62681 20160405010348
+76.91.36.228 36 45 305579 20160404202236
+182.74.105.226 84 103 1378462 20160405022739
+115.113.227.188 70 70 362872 20160406020810
+168.235.205.211 19 161 787537 20160404002514
+122.169.96.82 0 1 968 
+183.91.15.34 1 5 3920 20160404231249
+14.141.249.34 29 34 81583 20160404022600
+204.79.180.57 1 1 63962 20160403015050
+204.79.180.28 0 1 2109 
+185.112.102.170 1 1 62743 20160405003438
+101.212.69.29 18 28 24131 20160406022825 20160406022259 /pub/static/frontend/Magento/luma/en_US/js-translation.json
+114.109.116.35 10 15 7468 20160404011451
+204.79.180.60 1 1 1808 20160403015052
+136.243.132.21 11 11 328018 20160402030236
+204.79.180.135 0 1 83885 
+203.45.160.124 48 53 426136 20160404221220
+192.227.206.66 1 1 32506 20160404011214
+54.235.10.210 1 1 285331 20160404181941
+92.96.25.192 63 77 715074 20160404221908
+115.248.39.45 61 67 391476 20160404030710
+103.238.229.36 11 16 22815 20160406031514 20160406031219 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+14.161.30.233 69 69 550294 20160404010821
+209.193.84.74 3 4 63963 20160406020725
+54.226.28.193 1 1 110063 20160404203500
+87.201.247.118 103 137 1528436 20160406023117 20160406023012 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/input.html
+66.249.93.154 10 13 6383 20160404030303
+96.21.75.76 23 36 716985 20160404213455
+107.183.210.150 10 15 7468 20160402004414
+66.175.220.135 2 2 563712 20160404234713
+103.30.141.136 153 168 1079528 20160405030818
+101.128.116.132 108 241 1224357 20160404031718
+104.36.96.130 2 2 438856 20160404180639
+37.133.29.67 91 91 21528380 20160404182820
+100.8.203.203 9 11 17705 20160405013728
+117.218.200.97 12 19 285943 20160402031859
+204.79.180.190 0 1 3826 
+66.225.231.117 1 1 32506 20160403002616
+113.190.252.164 56 64 371607 20160406025310 20160406025130 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/block-loader.html
+180.191.123.179 145 172 2819619 20160404204722
+177.102.239.38 19 24 38745 20160404211114
+103.24.180.236 1 1 218823 20160405015257
+49.147.109.219 12 17 83891 20160406031505 20160406031442 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+82.228.202.136 10 15 22503 20160406030953 20160406030946 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+204.79.180.78 0 1 39807 
+122.129.118.240 19 24 38745 20160405001301
+27.118.22.26 11 11 328018 20160406010302
+66.249.93.157 3 7 4052 20160404030303
+123.63.192.187 11 16 85184 20160406025816 20160406025801 /pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html
+103.18.169.238 39 163 707912 20160402020908
+94.11.97.12 32 45 474537 20160406030153 20160406025156 /pub/static/frontend/Magento/luma/en_US/Magento_Captcha/template/checkout/captcha.html
+204.79.180.82 0 1 559 
+24.205.167.61 11 16 71430 20160402031655
+77.38.37.64 132 144 1725105 20160405024147
+14.161.30.242 60 65 584479 20160404010821
+197.0.43.243 50 195 996889 20160403000251
+204.79.180.215 0 1 20326 
+202.142.81.36 0 1 420 
+75.82.87.71 44 182 2758944 20160404181515
+204.79.180.180 0 2 2638 
+64.125.223.242 1 1 62681 20160404233003
+49.213.43.228 20 20 346042 20160402023538
+204.79.180.90 0 1 788 
+24.197.174.33 153 186 2095344 20160406001013
+141.212.122.193 1 1 62743 20160405031355
+91.55.189.160 10 15 22503 20160405031837
+1.2.226.223 49 54 716710 20160406021620
+88.6.127.105 1 1 73341 20160406023319 20160406023319 /pub/static/frontend/Magento/blank/en_US/css/docs/
+208.58.119.106 6 6 1316568 20160404201746
+101.98.58.74 46 67 803414 20160404210807
+104.209.188.207 1 1 199368 20160405001130
+121.246.200.178 72 77 1292168 20160406004641
+204.79.180.124 0 1 916 
+202.191.65.50 10 15 22503 20160405012333
+80.85.196.24 10 15 22503 20160406003832
+180.61.201.194 12 18 133216 20160403005055
+50.246.230.29 2 3 63651 20160404185836
+74.72.185.108 8 103 585640 20160402001755
+27.74.255.18 1 1 26370 20160404020441
+204.79.180.68 0 1 1360 
+62.205.148.127 20 25 73096 20160404031718
+99.236.198.187 33 44 678698 20160404190826
+204.79.180.254 0 1 6999 
+202.142.68.42 8 8 118821 20160404232318
+182.48.159.195 2 2 438856 20160405004555
+112.137.129.85 12 17 137400 20160406000523
+159.8.32.210 3 3 86262 20160403024808
+204.79.180.166 0 1 461 
+71.236.12.166 12 12 66503 20160404004843
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160402 303 716 4833477 12
+20160403 370 580 4146867 10
+20160404 2775 4272 88717339 62
+20160405 1643 1928 19386876 28
+20160406 1637 1953 23515966 35
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 9
+30s-2mn 27
+15mn-30mn 3
+2mn-5mn 12
+0s-30s 76
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 331
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/block-loader.html 517 146088 9 5
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-popup.html 494 547350 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-custom.html 493 537494 0 2
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-slide.html 493 600097 1 2
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/template/authentication-popup.html 411 1456689 0 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html 407 103760 0 33
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/template/messages.html 403 235420 0 20
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/template/checkout/captcha.html 403 544217 0 12
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/content.html 396 1280319 0 0
+/customer/section/load/ 290 3687546 3 5
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/list.html 5 2499 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/item/details.html 16 22528 0 0
+/abominable-hoodie.html 2 170164 0 0
+/review/product/listAjax/id/729/ 2 0 0 0
+/review/product/listAjax/id/5/ 2 12536 0 0
+/women/tops-women/jackets-women.html 1 273146 1 0
+/gobi-heattec-reg-tee.html 1 73236 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/subtotal.html 87 27771 0 0
+/contact/ 1 29524 0 0
+/sale.html 8 324744 0 0
+/update/pub/fonts/opensans/regular/opensans-400.woff2 1 17848 0 0
+/overnight-duffle.html 2 109176 0 0
+/women/bottoms-women/pants-women.html 4 725871 0 0
+/setup/pub/fonts/opensans/regular/opensans-400.woff2 3 17848 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-custom.html 6 2850 0 0
+/privacy-policy-cookie-restriction-mode/ 2 93632 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/shipping_method/price.html 16 15266 0 1
+/review/product/listAjax/id/531/ 1 6324 0 0
+/collections/erin-recommends.html 4 999424 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-address/form.html 16 13585 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/summary/discount.html 8 3560 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvYnJlYXRoZS1lYXN5LXRhbmsuaHRtbA,,/product/1817/ 4 8 0 0
+/admin_41207x/mui/bookmark/save/key/08dbdd2d958f3cabfa4194aecac0e6098770520a4d7faac6bd56384f58809f4e/ 2 0 0 1
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvd29tZW4vdG9wcy13b21lbi5odG1s/product/1593/ 1 74 0 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/downloader/ 2 57466 0 2
+/rest/default/V1/guest-carts/f00d221688a28363b3dc5e89126a2c94/estimate-shipping-methods 6 2088 0 0
+/review/product/listAjax/id/51/ 2 0 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/html.html 1 199 0 0
+/rest/default/V1/guest-carts/ca7df8903537ffd80d921bb3016a72ab/estimate-shipping-methods 2 838 0 0
+/gear.html 9 537442 0 0
+/review/product/listAjax/id/1545/ 3 23298 0 0
+/update/pub/images/logo.svg 1 347 0 0
+/review/product/listAjax/id/15/ 1 4172 0 0
+/review/product/listAjax/id/13/ 2 15974 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/pages.html 5 1239990 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/elements/date.html 1 681 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/shipping-rates.html 7 11389 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information/address-renderer/default.html 7 3494 0 0
+/review/product/listAjax/id/243/ 1 0 0 0
+/checkout/index/index/ 3 2282164 0 0
+/page_cache/block/render/ 16 10626 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/components.html 7 1531761 1 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/helper/tooltip.html 16 10486 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2 7 125051 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2 7 122167 0 0
+/review/product/listAjax/id/1956/ 2 12086 0 0
+/rest/default/V1/carts/mine/estimate-shipping-methods 12 3951 0 0
+/cassius-sparring-tank.html 2 149070 0 0
+/checkout/ 14 10642549 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/subtotal.html 15 17138 0 0
+/paypal/billing_agreement/ 1 39108 0 0
+/fusion-backpack.html 3 160746 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/docs.html 2 240392 1 1
+/sales/guest/form/ 4 113536 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/elements/input.html 1 640 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/controls/columns.html 1 2304 0 0
+/setup/index.php/session/prolong 4 64 0 0
+/gear/bags.html 5 587995 0 0
+/rest/default/V1/guest-carts/f00d221688a28363b3dc5e89126a2c94/shipping-information 1 1508 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/template/product/image_with_borders.html 89 37675 0 0
+/setup/index.php/home 2 2568 0 0
+/ajax-full-zip-sweatshirt.html 1 85559 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvbHVtYS15b2dhLWZvci1saWZlLmh0bWw,/product/51/ 1 2 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvbWVuL3RvcHMtbWVuLmh0bWw,/product/611/ 1 91 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/registration.html 1 406 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-slide.html 6 3226 0 0
+/downloadable/download/sample/sample_id/16/ 2 5174528 0 0
+/rest/default/V1/guest-carts/66a157dac2dab688fca3bf27aaf281d6/estimate-shipping-methods 1 419 0 0
+/setup/pub/images/magento-logo.svg 2 8038 0 0
+/pub/static/adminhtml/Magento/backend/en_US/js-translation.json 2 4 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZ2Vhci9iYWdzLmh0bWw,/product/1/ 1 2 0 0
+/setup/index.php/navigation/side-menu 3 4404 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/layout.html 21 4893546 1 0
+/rest/default/V1/carts/mine/payment-information 4 5005 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/sections.html 7 1735433 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/grand-total.html 7 6422 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/listing.html 1 1376 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/shipping.html 7 11295 0 0
+/review/product/listAjax/id/19/ 1 7903 0 0
+/pub/static/frontend/Magento/luma/en_US/mage/gallery/gallery.html 63 111093 0 1
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/magmi/web/magmi.php 5 143770 1 1
+/pub/static/frontend/Magento/blank/en_US/css/docs/tooltips.html 4 883624 1 1
+/nadia-elements-shell.html 1 88856 0 0
+/checkout/cart/ 16 1057554 2 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/select.html 23 12635 0 1
+/customer/account/edit/ 5 214810 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY2Fzc2l1cy1zcGFycmluZy10YW5rLmh0bWw,/product/729/ 1 2 0 0
+/rival-field-messenger.html 1 54718 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZGVzaXJlZS1maXRuZXNzLXRlZS5odG1s/product/1593/ 1 2 0 0
+/setup/index.php/navigation/header-bar 3 9139 0 0
+/about-us/ 1 27125 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2 7 123791 0 0
+/review/product/listAjax/id/1901/ 1 0 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvbWVuL3RvcHMtbWVuLmh0bWw,/product/729/ 1 76 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary.html 16 5194 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/buttons.html 18 4701186 1 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/cart/totals/tax.html 7 12176 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/form.html 5 4186 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/payment-methods/list.html 16 6756 0 0
+/review/product/listAjax/id/1593/ 2 15304 0 0
+/gwen-drawstring-bike-short.html 2 171614 0 0
+/rest/default/V1/guest-carts/38bda7275a9154336d33569b18b3de38/estimate-shipping-methods 1 419 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZ2Vhci9iYWdzLmh0bWw,/product/12/ 1 2 0 0
+/setup/index.php 2 9536 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/multiselect.html 1 628 0 0
+/review/product/listAjax/id/451/ 1 8042 0 0
+/setup/index.php/navigation 3 45018 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff 4 88704 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvc2VsZW5lLXlvZ2EtaG9vZGllLmh0bWw,/product/1113/ 1 2 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff 4 18862 0 0
+/newsletter/manage/ 1 39678 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvc3VtbWl0LXdhdGNoLmh0bWw,/product/38/ 1 2 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvdGhvcnBlLXRyYWNrLXBhbnQuaHRtbA,,/product/820/ 2 4 0 0
+/rest/default/V1/guest-carts/dbf6b7f2b539f1deb869039faf5e8c31/estimate-shipping-methods 1 419 0 0
+/rest/default/V1/carts/mine/shipping-information 3 5000 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/shipping-estimation.html 7 4236 0 0
+/customer/account/login/ 6 173784 1 0
+/review/product/listAjax/id/579/ 1 5914 0 0
+/rest/default/V1/guest-carts/4eceba05086921a71353375ba617581b/estimate-shipping-methods 1 415 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.ttf 1 39476 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/item/price.html 86 17502 0 2
+/men/tops-men/jackets-men.html 2 533496 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/actions.html 1 1383 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/elements/group.html 1 341 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_OfflinePayments/template/payment/checkmo.html 6 11942 0 0
+/customer/account/ 10 425853 0 0
+/admin_41207x/sales/order/index/key/493ddaf80a77ea276adde9028a4ba78d5c188f555fa32fca4033d07d2846f1fb/ 1 85318 0 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/admin/Cms_Wysiwyg/directive/ 4 122224 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/progress-bar.html 16 6731 0 0
+/review/product/listAjax/id/820/ 1 0 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff 4 91359 0 0
+/rest/default/V1/carts/mine/totals-information 4 7548 0 0
+/women/bottoms-women.html 7 1565257 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/regular/opensans-400.woff2 3 17848 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/controls/bookmarks/bookmarks.html 1 2598 0 0
+/radiant-tee.html 6 526608 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-popup.html 6 2898 0 0
+/catalogsearch/result/ 4 191892 0 0
+/gwyn-endurance-tee.html 1 82288 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/actions-toolbar.html 14 3246726 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/paging-total.html 1 332 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/grand-total.html 8 9706 0 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/app/etc/local.xml 2 57500 2 0
+/downloadable/customer/products/ 1 39022 0 0
+/update/pub/fonts/icons/icons.woff2 1 4832 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvbWVuL3RvcHMtbWVuLmh0bWw_cHJvZHVjdF9saXN0X21vZGU9bGlzdA,,/product/729/ 1 76 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/light/opensans-300.woff2 1 17436 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-address/list.html 16 6168 0 0
+/gear/fitness-equipment.html 5 504799 1 1
+/luma-yoga-for-life.html 2 118242 1 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/shipping.html 8 20038 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/semibold/opensans-600.woff2 3 17980 0 0
+/review/product/listAjax/id/195/ 2 0 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff 4 90334 0 0
+/ 70 4417976 48 9
+/men/tops-men/tees-men.html 1 251209 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/chips.html 1 2056 0 0
+/meteor-workout-short.html 1 82162 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address/details.html 5 3790 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/authentication.html 16 54384 0 0
+/women/tops-women/hoodies-and-sweatshirts-women.html 3 578567 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information.html 16 14919 0 0
+/ida-workout-parachute-pant.html 1 74281 0 0
+/go-get-r-pushup-grips.html 1 59244 0 0
+/customer/account/create/ 6 178506 0 0
+/what-is-new.html 12 711544 0 0
+/setup/pub/images/logo.svg 1 347 0 0
+/review/product/listAjax/id/1561/ 7 57141 0 0
+/review/product/listAjax/id/1817/ 11 65461 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2 7 23019 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_GiftMessage/template/gift-message.html 9 15167 0 0
+/desiree-fitness-tee.html 2 170990 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvdHJhaW5pbmcvdHJhaW5pbmctdmlkZW8uaHRtbD9wcm9kdWN0X2xpc3RfbW9kZT1saXN0/product/49/ 1 2 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/resets.html 1 215113 1 0
+/review/customer/ 1 38931 0 0
+/ryker-lumatech-trade-tee-v-neck.html 1 83926 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/columns/text.html 1 457 0 0
+/swatches/ajax/media 73 90370 0 0
+/rest/default/V1/guest-carts/e2be9d8870e0019e4d07b1b0e17a1b99/estimate-shipping-methods 1 419 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-icon.svg 3 347 0 0
+/karissa-v-neck-tee.html 1 69305 0 0
+/rest/default/V1/guest-carts/f4cd9ccf71748996bd76ce330c8cd1a5/shipping-information 1 1502 0 0
+/training/training-video.html 4 312462 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/cart-items.html 16 29115 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/item/default.html 88 393148 0 0
+/review/product/listAjax/id/1529/ 1 7705 0 0
+/women/tops-women.html 8 2151753 2 0
+/review/product/listAjax/id/38/ 1 7717 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Weee/template/checkout/summary/item/price/row_excl_tax.html 16 23536 0 0
+/argus-all-weather-tank.html 1 74513 0 0
+/summit-watch.html 1 50154 0 0
+/men/bottoms-men/pants-men.html 1 236188 0 0
+/search/term/popular/ 2 101342 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/actions.html 1 707 0 0
+/gear/watches.html 2 201308 0 0
+/checkout/cart/configure/id/3272/product_id/5/ 1 54382 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/item/details/subtotal.html 16 16251 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/columns/multiselect.html 1 1361 0 0
+/review/product/listAjax/id/1801/ 1 7833 0 0
+/setup/pub/fonts/opensans/semibold/opensans-600.woff2 1 17980 0 0
+/admin_41207x/admin/system_message/list/key/87da7d99fffd266f885d532e776ceee9ac86346246ef076ad76d51c3d2e9501d/ 1 419 0 0
+/search/ajax/suggest/ 10 1999 0 0
+/diva-gym-tee.html 3 230157 1 0
+/pub/static/frontend/Magento/luma/en_US/images/select-bg.svg 1 405 0 0
+/admin_41207x/mui/index/render/key/5bdbbfc214d8071ab8a7eb0d2549872161ba5b965ed7788140e9afcdc61a32e1/ 1 22831 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/collection.html 1 280 0 0
+/review/product/listAjax/id/699/ 1 0 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY29sbGVjdGlvbnMvZXJpbi1yZWNvbW1lbmRzLmh0bWw,/product/1545/ 1 67 0 0
+/update/index.php 1 117976 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/paging/sizes.html 1 4374 0 0
+/review/product/listAjax/id/45/ 2 0 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_CheckoutAgreements/template/checkout/checkout-agreements.html 5 7308 0 0
+/update/pub/fonts/opensans/semibold/opensans-600.woff2 1 17980 0 0
+/admin_41207x/admin/notification/ajaxMarkAsRead/key/bd63e11b0bfe833adeb7532b7d458ab5c7d521468410845e0984299273d547ea/ 2 32 0 0
+/sales/order/history/ 1 38856 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/variables.html 1 451197 0 1
+/setup/index.php/select-version 1 9536 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/cart/totals.html 9 3444 0 0
+/rest/default/V1/guest-carts/f4cd9ccf71748996bd76ce330c8cd1a5/estimate-shipping-methods 6 2301 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/sidebar.html 16 11794 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/totals.html 16 5881 0 0
+/review/product/listAjax/id/1838/ 1 8047 0 0
+/setup/pub/fonts/opensans/bold/opensans-700.woff2 1 17668 0 0
+/checkout/onepage/success/ 2 60617 0 0
+/customer-service/ 4 120576 3 0
+/affirm-water-bottle.html 1 59293 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/billing-address.html 5 5205 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/field.html 23 35110 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/estimation.html 16 9553 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/dropdowns.html 24 5985432 0 0
+/setup/pub/fonts/icons/icons.woff2 1 4832 0 0
+/catalogsearch/advanced/ 4 130560 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Weee/template/checkout/summary/weee.html 15 5160 0 0
+/antonia-racer-tank.html 1 84949 0 0
+/rest/default/V1/guest-carts/9ea4c3875f18ebaf7bebe4ed93e792a6/estimate-shipping-methods 1 419 0 0
+/review/product/listAjax/id/1577/ 1 7593 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/elements/select.html 1 831 0 0
+/thorpe-track-pant.html 1 77953 0 0
+/review/product/listAjax/id/916/ 1 7953 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.ttf 1 37336 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/onepage.html 17 11020 0 0
+/men/bottoms-men/shorts-men.html 1 199368 1 1
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/group/group.html 16 15605 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/forms.html 5 661230 4 4
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/minicart/subtotal/totals.html 85 96582 0 7
+/deirdre-relaxed-fit-capri.html 1 63016 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/form/element/email.html 16 38689 0 0
+/women/tops-women/tees-women.html 2 476470 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/utilities.html 13 3055884 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2 7 125975 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/responsive.html 22 4827416 6 5
+/setup/ 1 4768 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.ttf 1 38452 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZ2Vhci9iYWdzLmh0bWw,/product/13/ 1 2 0 0
+/admin_41207x/admin/dashboard/index/key/b34ee5d74f790cdc3364e05fa1309368c8def1d422c7cbb9cfd69afe80003d14/ 4 307834 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/exportButton.html 1 1867 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping.html 16 99549 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/payment.html 16 24303 0 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/api/xmlrpc 2 57490 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/typography.html 2 570662 1 2
+/pub/static/frontend/Magento/luma/en_US/js-translation.json 161 1962 43 3
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvcml2YWwtZmllbGQtbWVzc2VuZ2VyLmh0bWw,/product/5/ 1 2 0 0
+/pub/static/frontend/Magento/blank/en_US/css/docs/ 3 220023 2 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/form/element/input.html 23 8112 0 1
+/selene-yoga-hoodie.html 2 163672 0 0
+/rest/default/V1/guest-carts/f00d221688a28363b3dc5e89126a2c94/payment-information 1 5 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_GiftMessage/template/gift-message-item-level.html 8 11280 0 0
+/breathe-easy-tank.html 9 737055 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Shipping/template/checkout/shipping/shipping-policy.html 16 8434 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-logo.svg 1 3726 0 0
+/training.html 7 365612 0 0
+/women/tops-women/tanks-women.html 4 931055 0 0
+/review/product/listAjax/id/163/ 5 0 0 0
+/pub/static/frontend/Magento/luma/en_US/images/logo.svg 10 22068 4 1
+/rest/default/V1/guest-carts/89210683910564bd6f36f15c35263fd0/estimate-shipping-methods 1 419 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/paging/paging.html 1 1243 0 0
+/collections/yoga-new.html 8 2049738 0 0
+/hero-hoodie.html 5 423745 0 0
+/admin_41207x/admin/index/index/key/e477e366c1e9600ee317b8027d33b78d6f74a51f07db34c5cceac97e2aa6bf1b/ 1 8541 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/controls/bookmarks/view.html 1 2015 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZGl2YS1neW0tdGVlLmh0bWw,/product/1545/ 1 2 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/summary/item/details/thumbnail.html 16 6937 0 0
+/rest/default/V1/guest-carts/2baddee3c463770a2b478b00b7db1be8/totals-information 1 1364 0 0
+/checkout/sidebar/removeItem/ 5 80 0 0
+/women.html 21 1278069 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZ29iaS1oZWF0dGVjLXJlZy10ZWUuaHRtbA,,/product/451/ 1 2 0 0
+/setup/index.php/select-version/systemPackage 1 265 0 0
+/review/product/listAjax/id/6/ 3 24237 0 0
+/sprite-yoga-companion-kit.html 2 140572 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/admin-icons/admin-icons.woff2 3 5304 0 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/magmi/conf/magmi.ini 2 57512 0 0
+/review/product/listAjax/id/1113/ 2 15746 0 0
+/men.html 10 601940 0 1
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.ttf 1 6768 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/cart/totals/discount.html 7 2626 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/search/search.html 1 883 0 0
+/review/product/listAjax/id/611/ 1 7858 0 0
+/rest/default/V1/guest-carts/8a64a8bffb17fcf918090a6635ca572b/estimate-shipping-methods 4 1676 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/toolbar.html 1 1458 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.ttf 1 38232 1 0
+/catalog/product_compare/index/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvY3VzdG9tZXIvc2VjdGlvbi9sb2FkLz9zZWN0aW9ucz0mdXBkYXRlX3NlY3Rpb25faWQ9ZmFsc2UmXz0xNDU0MzcxMjAwMDQ5/admin/Cms_Wysiwyg/directive/index/ 8 246336 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff 4 89410 0 0
+/rest/default/V1/customers/isEmailAvailable 3 13 0 0
+/update/index.php/status 156 23436060 1 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/text.html 1 199 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvbWVuL3RvcHMtbWVuLmh0bWw_cHJvZHVjdF9saXN0X29yZGVyPW5hbWU,/product/195/ 1 72 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Tax/template/checkout/summary/tax.html 8 16644 0 0
+/men/tops-men.html 14 3760152 2 1
+/deion-long-sleeve-evercool-trade-tee.html 1 70358 0 0
+/balboa-persistence-tee.html 1 75796 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZGVpcmRyZS1yZWxheGVkLWZpdC1jYXByaS5odG1s/product/1901/ 1 2 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/payment/discount.html 16 29771 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/shipping-information/list.html 7 1528 0 0
+/review/product/listAjax/id/1353/ 1 7826 0 1
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/bold/opensans-700.woff2 3 17668 0 0
+/setup/index.php/updater-success 1 633 0 0
+/rest/default/V1/guest-carts/c0b1b000eb0ce6104fc176bce376615f/estimate-shipping-methods 2 838 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Payment/template/payment/free.html 6 8560 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZGVpb24tbG9uZy1zbGVldmUtZXZlcmNvb2wtdHJhZGUtdGVlLmh0bWw,/product/611/ 1 2 0 0
+/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8yLWRlbW8ubmV4Y2Vzcy5uZXQvZ3d5bi1lbmR1cmFuY2UtdGVlLmh0bWw,/product/1577/ 1 2 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/filters.html 1 2335 0 0
+END_SIDER

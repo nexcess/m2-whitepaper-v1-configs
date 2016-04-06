@@ -1,0 +1,6 @@
+# IP addresses placed here are excluded from the NEXCESS/BRUTE_FORCE rule set
+# 
+# Make sure to include an inline comment with a ticket ID for any whitelists, e.g.:
+# 
+# 192.240.191.2 # SDFG-2824
+#

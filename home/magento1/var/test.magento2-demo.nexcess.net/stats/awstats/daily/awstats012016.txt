@@ -1,0 +1,290 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201601 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1937                
+POS_TIME 2616                
+POS_VISITOR 5635                
+POS_DAY 5832                
+POS_DOMAIN 3107                
+POS_LOGIN 3336                
+POS_ROBOT 3491                
+POS_WORMS 3623                
+POS_EMAILSENDER 3754                
+POS_EMAILRECEIVER 3897                
+POS_SESSION 5914                
+POS_SIDER 6051                
+POS_FILETYPES 4032                
+POS_OS 4239                
+POS_BROWSER 4288                
+POS_SCREENSIZE 4354                
+POS_UNKNOWNREFERER 4428                
+POS_UNKNOWNREFERERBROWSER 4515                
+POS_ORIGIN 4597                
+POS_SEREFERRALS 4730                
+POS_PAGEREFS 4874                
+POS_SEARCHWORDS 5022                
+POS_KEYWORDS 5174                
+POS_MISC 2280                
+POS_ERRORS 5233                
+POS_CLUSTER 3192                
+POS_SIDER_404 5326                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160105152015 393 111651 23466767988195
+FirstTime 20160105151656
+LastTime 20160105152010
+LastUpdate 20160406031909 0 0 0 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 74 381 8275874 5 12 21008
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 74 381 8275874
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 15 1714444 0 0
+png 3 1513 0 0
+woff2 14 208768 0 0
+json 4 8 0 0
+html 21 178330 0 0
+js 287 5777520 0 0
+Unknown 29 360198 0 0
+svg 6 16043 0 0
+gif 2 19050 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 1
+linux 381
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+firefox41.0 381
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1 4
+From1 0 0
+From2 0 0
+From3 0 0
+From4 73 377
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 1 202
+302 4 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+181.170.125.193 74 381 8275874 20160105152010 20160105151656 /pub/static/adminhtml/Magento/backend/en_US/js-translation.json
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20160105 74 381 8275874 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 62
+/setup/index.php/install/progress 6 184083 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-custom.html 2 2850 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-slide.html 2 3226 0 0
+/pub/static/frontend/Magento/luma/en_US/images/logo.svg 2 7604 0 0
+/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-popup.html 2 2898 0 0
+/pub/static/frontend/Magento/luma/en_US/js-translation.json 2 4 0 0
+/pub/static/adminhtml/Magento/backend/en_US/js-translation.json 2 4 0 0
+/setup/index.php/session/prolong 2 32 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/semibold/opensans-600.woff2 1 17980 0 0
+/ 1 21269 0 0
+/setup/ 1 4768 1 0
+/setup/index.php/create-admin-account 1 6435 0 0
+/customer/account/login/ 1 24370 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2 1 17848 0 0
+/setup/index.php/readiness-check-installer 1 1514 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2 1 17436 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/admin-icons/admin-icons.woff2 1 5304 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-custom.html 1 1425 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Captcha/template/checkout/captcha.html 1 1687 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-slide.html 1 1613 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Customer/template/authentication-popup.html 1 4611 0 0
+/setup/pub/images/logo.svg 1 347 0 0
+/setup/index.php/environment/php-settings 1 560 0 0
+/admin_7ba2r5/admin/index/index/key/b318f77bb81a589f8b39bc80d3fea5034f4bf7e4f29737e3b70f7c73c88ab71c/ 1 8519 0 0
+/setup/index.php/landing-installer 1 745 0 0
+/setup/index.php/environment/php-version 1 87 0 0
+/setup/pub/fonts/opensans/regular/opensans-400.woff2 1 17848 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2 1 3272 0 0
+/setup/pub/fonts/opensans/bold/opensans-700.woff2 1 17668 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/template/messages.html 1 700 0 0
+/admin_7ba2r5/admin/dashboard/index/key/621ee12c13f56913a5ab2a0d86e56d5a2010eb4feae6560326baf43ae22d23ac/ 1 63036 0 0
+/setup/index.php/navigation/header-bar 1 3040 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/template/minicart/content.html 1 4165 0 0
+/setup/index.php/environment/file-permissions 1 660 0 0
+/setup/index.php/web-configuration 1 10932 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2 1 17668 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-icon.svg 1 347 0 0
+/pub/static/adminhtml/Magento/backend/en_US/images/magento-logo.svg 1 3726 0 0
+/setup/index.php/customize-your-store/default-time-zone 1 25 0 0
+/setup/index.php/customize-your-store 1 99840 0 0
+/setup/index.php/database-check 1 16 0 0
+/setup/pub/fonts/icons/icons.woff2 1 4832 0 0
+/setup/index.php/success 1 1622 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/regular/opensans-400.woff2 1 17848 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/collection.html 1 280 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/modal/modal-popup.html 1 1449 0 0
+/setup/pub/images/magento-logo.svg 1 4019 0 0
+/pub/static/frontend/Magento/luma/en_US/Magento_Ui/templates/block-loader.html 1 312 0 0
+/setup/index.php/navigation 1 4381 0 0
+/setup/index.php/navigation/side-menu 1 1452 0 0
+/setup/index.php/modules/all-modules-valid 1 16 0 0
+/customer/section/load/ 1 31152 0 0
+/setup/index.php/install 1 2743 0 0
+/setup/index.php/install/start 1 220 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/bold/opensans-700.woff2 1 17668 0 0
+/setup/pub/fonts/opensans/semibold/opensans-600.woff2 1 17980 0 0
+/setup/index.php/modules 1 14679 0 0
+/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/light/opensans-300.woff2 1 17436 0 0
+/setup/index.php/environment/php-extensions 1 238 0 0
+/pub/static/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2 1 17980 0 0
+/setup/index.php/add-database 1 6318 0 0
+/setup/index.php/readiness-check-installer/progress 1 20560 0 0
+END_SIDER
