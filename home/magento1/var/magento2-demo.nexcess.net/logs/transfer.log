@@ -1,6 +1,0 @@
-68.180.229.118 - - [06/Apr/2016:10:00:34 -0400] "GET /promotions/tees-all.html?color=49&material=143 HTTP/1.1" 200 66951 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
-68.180.229.118 - - [06/Apr/2016:10:00:55 -0400] "GET /promotions/pants-all.html?color=52&material=148 HTTP/1.1" 200 102010 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
-107.170.199.91 - - [06/Apr/2016:10:01:24 -0400] "GET /?SID=ivosb739nh43kirslo1lu4jqt1 HTTP/1.1" 200 63975 "http://104.207.233.117:80/" "Go-http-client/1.1"
-107.170.199.91 - - [06/Apr/2016:10:01:54 -0400] "GET /CHANGELOG.txt/?SID=24960ss3lj6ne0fqusp61bglo6 HTTP/1.1" 404 32712 "http://104.207.233.117:80/CHANGELOG.txt" "Go-http-client/1.1"
-107.170.199.91 - - [06/Apr/2016:10:02:24 -0400] "GET /joomla.xml/?SID=n129fpgpn6pvgg9i7khke4cpe2 HTTP/1.1" 404 32705 "http://104.207.233.117:80/joomla.xml" "Go-http-client/1.1"
-107.170.199.91 - - [06/Apr/2016:10:02:53 -0400] "GET /administrator/manifests/libraries/?SID=8h2vosoiig2gvgm2b76qt1fk36 HTTP/1.1" 404 32778 "http://104.207.233.117:80/administrator/manifests/libraries/joomla.xml" "Go-http-client/1.1"
